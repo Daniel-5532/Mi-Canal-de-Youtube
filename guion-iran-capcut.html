@@ -1,0 +1,329 @@
+<title>Guion Irán CapCut</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Familjen+Grotesk:wght@500;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,500&display=swap">
+<style>
+  /* Layout: una sola columna de tarjetas; cada tarjeta = un capítulo del guion con su botón de copiar. */
+  :root {
+    --bg: #eef1f5;
+    --surface: #ffffff;
+    --line: #d5dce6;
+    --ink: #14202e;
+    --muted: #55657a;
+    --accent: #0e6b75;
+    --accent-ink: #ffffff;
+    --done: #1f7a45;
+    --done-bg: #e3f3ea;
+    --font-display: "Familjen Grotesk", system-ui, sans-serif;
+    --font-text: "Source Serif 4", Georgia, serif;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #0f1620;
+      --surface: #172230;
+      --line: #263548;
+      --ink: #e7edf5;
+      --muted: #97a7bb;
+      --accent: #4fc3cf;
+      --accent-ink: #06222a;
+      --done: #6fd39a;
+      --done-bg: #14301f;
+      color-scheme: dark;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #0f1620;
+    --surface: #172230;
+    --line: #263548;
+    --ink: #e7edf5;
+    --muted: #97a7bb;
+    --accent: #4fc3cf;
+    --accent-ink: #06222a;
+    --done: #6fd39a;
+    --done-bg: #14301f;
+    color-scheme: dark;
+  }
+
+  body {
+    background: var(--bg);
+    color: var(--ink);
+    font-family: var(--font-text);
+    padding-block: 28px 48px;
+    padding-left: max(16px, env(safe-area-inset-left, 0px));
+    padding-right: max(16px, env(safe-area-inset-right, 0px));
+  }
+  main { max-width: 720px; margin: 0 auto; display: flex; flex-direction: column; gap: 20px; }
+
+  header { display: flex; flex-direction: column; gap: 8px; }
+  h1 {
+    font-family: var(--font-display);
+    font-size: 1.75rem;
+    line-height: 1.15;
+    margin: 0;
+    text-wrap: balance;
+  }
+  .lede { margin: 0; color: var(--muted); font-size: 1rem; line-height: 1.5; max-width: 60ch; }
+  .steps {
+    margin: 4px 0 0;
+    padding: 12px 14px;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    font-family: var(--font-display);
+    font-size: 0.9rem;
+    line-height: 1.5;
+    color: var(--ink);
+  }
+  .steps b { font-weight: 700; }
+
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+  }
+  .card-head {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px 16px;
+    padding: 14px 16px;
+    border-bottom: 1px solid var(--line);
+  }
+  .card-title { display: flex; flex-direction: column; gap: 2px; min-width: 0; }
+  .card-title .kicker {
+    font-family: var(--font-display);
+    font-size: 0.75rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--muted);
+  }
+  .card-title h2 {
+    font-family: var(--font-display);
+    font-size: 1.1rem;
+    margin: 0;
+    line-height: 1.25;
+  }
+  .meta {
+    font-family: var(--font-display);
+    font-size: 0.8rem;
+    color: var(--muted);
+    font-variant-numeric: tabular-nums;
+  }
+
+  .copy {
+    font-family: var(--font-display);
+    font-weight: 700;
+    font-size: 0.95rem;
+    min-height: 44px;
+    padding: 0 18px;
+    border-radius: 8px;
+    border: 0;
+    background: var(--accent);
+    color: var(--accent-ink);
+    cursor: pointer;
+    flex: 0 0 auto;
+  }
+  .copy:hover { filter: brightness(1.08); }
+  .copy:focus-visible { outline: 3px solid var(--ink); outline-offset: 2px; }
+  .copy.done { background: var(--done-bg); color: var(--done); }
+
+  .script {
+    padding: 16px;
+    font-size: 1.05rem;
+    line-height: 1.65;
+    display: flex;
+    flex-direction: column;
+    gap: 0.9em;
+    user-select: text;
+    -webkit-user-select: text;
+  }
+  .script p { margin: 0; max-width: 65ch; }
+
+  .total { color: var(--muted); font-family: var(--font-display); font-size: 0.85rem; margin: 0; }
+  @media (prefers-reduced-motion: no-preference) {
+    .copy { transition: background 0.15s, color 0.15s; }
+  }
+</style>
+
+<main>
+  <header>
+    <h1>Guion de Irán para CapCut</h1>
+    <p class="lede">Cinco tarjetas en inglés, cada una por debajo del límite de caracteres de CapCut. Una tarjeta es un tramo de la historia.</p>
+    <p class="steps"><b>Cómo usarlo:</b> toca <b>Copiar</b> en una tarjeta, pégala en CapCut en una capa de texto y genera la voz. Repite con la siguiente, en orden.</p>
+  </header>
+  <section id="cards" style="display:contents"></section>
+  <p class="total" id="total"></p>
+</main>
+
+<script>
+  // DATA-START
+  var CARDS = [
+    {
+      title: "Los primeros imperios persas",
+      range: "Elam, medos, Ciro y Darío",
+      text: `2,500 years ago, a single man united more peoples than anyone had ever united before, and he did it without destroying their religions. Today, that country has a different name, a different flag and a different system. This is the story of Iran, of Persia, five thousand years of history in eleven minutes.
+
+It all began on a plateau surrounded by mountains and desert. Around 3000 BC, in the southwest, the kingdom of Elam flourished, with its city of Susa, one of the world's first civilizations. Later, Indo-European peoples arrived. From the name they used for themselves, Aryans, comes the word Iran.
+
+Around the seventh century BC, the Medes built the first Iranian kingdom and allied with Babylon. In 612 BC, together they destroyed Nineveh, the capital of Assyria, the most feared empire of its time. But a new leader was already rising in their shadow: a Persian prince.
+
+Cyrus the Great overthrew the Medes around 550 BC and began to conquer. He defeated Lydia and, in 539 BC, entered Babylon without destroying it. He freed deported peoples and respected their gods. A clay cylinder with his decree is considered one of the first documents of tolerance.
+
+His son, Cambyses the Second, added Egypt to the empire in 525 BC. He died soon after, in a succession crisis. In 522 BC, a nobleman named Darius took the throne, and with him the empire reached its final form.
+
+Darius divided the empire into provinces, created a postal system along the Royal Road, and set a clear tax for each province. He built Persepolis, a ceremonial capital of colossal columns. His empire stretched from Egypt to the Indus Valley.`
+    },
+    {
+      title: "Grecia, Alejandro y la caída persa",
+      range: "Maratón, partos, sasánidas y conquista árabe",
+      text: `But expansion collided with the Greeks. Persia was defeated at Marathon in 490 BC. Ten years later, Darius's son, Xerxes, invaded with a massive army. He won at Thermopylae and burned Athens, but his fleet lost at Salamis, and the advance stalled.
+
+A century and a half later, the answer came. Alexander the Great defeated Darius the Third at Gaugamela, in 331 BC. The following year, he entered Persepolis and set it ablaze. Darius was murdered by his own nobles, and the first Persian empire came to an end.
+
+After Alexander and his successors, a people from the steppes, the Parthians, took control from 247 BC. Their cavalry was deadly. At Carrhae, in 53 BC, they destroyed the Roman army of Crassus. For almost five centuries, Parthia was Rome's only serious rival.
+
+In 224 AD, a local ruler named Ardashir overthrew the Parthians and founded the Sasanian Empire. His son, Shapur the First, captured the Roman emperor Valerian in 260. It was the greatest humiliation in Roman history. The Sasanians revived Persian traditions, and Zoroastrianism became their official religion.
+
+For centuries, Persia and Rome, and later Byzantium, bled each other in wars. The last, in the seventh century, left both empires without money or armies. And then a force nobody expected appeared, from the deserts of Arabia.
+
+The Arab armies, united by Islam, defeated the Persians at Qadisiyyah around 636 and at Nahavand in 642. In 651, the last Sasanian king, Yazdegerd the Third, died in exile. After more than a thousand years, the Persian empire had fallen.`
+    },
+    {
+      title: "Poetas, mongoles y safávidas",
+      range: "Edad de oro persa hasta Abbas el Grande",
+      text: `Iran adopted Islam, but not the Arabic language. Persian survived and was reborn as a literary language. Around the year 1010, the poet Ferdowsi finished the Shah-nah-meh, a poem of more than fifty thousand verses about the kings and heroes of Persia. With it, Iranian identity was saved by words.
+
+In those centuries, Persian scientists and poets lit up the Islamic world. Avicenna wrote a medical encyclopedia that was studied in Europe for centuries. Omar Khayyam calculated an accurate calendar and wrote immortal verses. Rumi and Hafez gave Persian poetry its universal fame.
+
+In the eleventh century, the Seljuk Turks arrived, ruling with both the Persian and Turkish languages. And in 1219 came the worst storm: Genghis Khan. Entire cities were razed, with an enormous death toll. His grandson Hulagu arrived in 1256 and finished the destruction. Iran would take centuries to recover.
+
+In 1380, another conqueror, Tamerlane, passed through the region with the same brutality. For centuries, Iran was a land of short-lived, divided and vulnerable dynasties. Until a teenager changed the course of history.
+
+In 1501, Ismail the First, only fourteen years old, founded the Safavid dynasty and declared Twelver Shia Islam the state religion. It was a decisive turn: from then on, Iran would be the center of Shia Islam in a mostly Sunni Muslim world.
+
+The greatest of the Safavids was Abbas the First, from 1587. He reformed the army with firearms, expelled the Ottomans, and moved the capital to Isfahan, which became one of the most beautiful cities in the world. A proverb said: Isfahan is half the world.`
+    },
+    {
+      title: "Dinastías, petróleo y golpe de Estado",
+      range: "Nader Shah, qayares, Pahlavi y Mossadegh",
+      text: `After the fall of the Safavids, the general Nader Shah restored the country's greatness. In 1739, he invaded India, sacked Delhi, and took the famous Peacock Throne. But his tyranny ended in 1747, when his own officers assassinated him.
+
+In 1796, the Kah-jar dynasty began. Its kings were weak and deeply in debt. They lost wars against Russia and gave up the Caucasus, and Britain and Russia turned Iran into a ground for their rivalry. The country still stood, but smaller and smaller.
+
+In 1906, a revolution forced the king to accept a constitution and a parliament. In 1908, oil was discovered in the south, and Britain took control of the resource. What should have been the country's wealth became a source of conflict.
+
+In 1925, an officer named Reza Khan founded the Pahlavi dynasty and began a forced modernization. In 1935, he asked the world to call the country by its own name: Iran. During the Second World War, the British and the Soviets forced him to abdicate, and his son, Mohammad Reza, took the throne.
+
+In 1951, Prime Minister Mossadegh nationalized the oil. In 1953, a coup organized by the intelligence services of the United States and Britain overthrew him and strengthened the Shah. Many Iranians never forgot that intervention, and it shaped relations with the West forever.`
+    },
+    {
+      title: "Revolución, guerra y presente",
+      range: "De 1979 a hoy, y cierre del video",
+      text: `The Shah modernized the country, but ruled with repression and a feared secret police. In 1978, millions of Iranians took to the streets. In January 1979, the Shah fled, and Ayatollah Khomeini returned from exile. A referendum created the Islamic Republic.
+
+In 1980, Iraq invaded Iran. Eight years of war left hundreds of thousands dead and a generation marked by the conflict. It ended in 1988 without a clear winner. Khomeini died in 1989, and Ali Khamenei succeeded him as Supreme Leader.
+
+Since then, Iran has lived through sanctions, tensions over its nuclear program, internal protests and confrontations with its regional rivals. A young, cultured country, proud of its past, still searching for a balance between tradition, power and the future.
+
+Five thousand years of empires, invasions, poems and revolutions. Iran has fallen many times, and many times it has risen again. If you want to see how another great civilization lived through it, watch the next video. And tell me in the comments: which era of Iran do you find the most fascinating?`
+    }
+  ];
+  // DATA-END
+
+  var LIMIT = 3000;
+  var host = document.getElementById("cards");
+  var totalChars = 0;
+
+  function fmt(n) { return n.toLocaleString("es"); }
+
+  function fallbackCopy(text) {
+    var ta = document.createElement("textarea");
+    ta.value = text;
+    ta.setAttribute("readonly", "");
+    ta.style.position = "fixed";
+    ta.style.opacity = "0";
+    document.body.appendChild(ta);
+    ta.select();
+    ta.setSelectionRange(0, text.length);
+    var ok = false;
+    try { ok = document.execCommand("copy"); } catch (e) { ok = false; }
+    document.body.removeChild(ta);
+    return ok;
+  }
+
+  function copyText(text) {
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      return navigator.clipboard.writeText(text).then(function () { return true; }, function () { return fallbackCopy(text); });
+    }
+    return Promise.resolve(fallbackCopy(text));
+  }
+
+  CARDS.forEach(function (c, i) {
+    var count = c.text.length;
+    totalChars += count;
+
+    var card = document.createElement("article");
+    card.className = "card";
+
+    var head = document.createElement("div");
+    head.className = "card-head";
+
+    var title = document.createElement("div");
+    title.className = "card-title";
+    var kicker = document.createElement("span");
+    kicker.className = "kicker";
+    kicker.textContent = "Tarjeta " + (i + 1) + " de " + CARDS.length;
+    var h2 = document.createElement("h2");
+    h2.textContent = c.title;
+    var meta = document.createElement("span");
+    meta.className = "meta";
+    meta.textContent = c.range + " · " + fmt(count) + " caracteres";
+    title.appendChild(kicker);
+    title.appendChild(h2);
+    title.appendChild(meta);
+
+    var btn = document.createElement("button");
+    btn.type = "button";
+    btn.className = "copy";
+    btn.id = "copy-" + (i + 1);
+    btn.textContent = "Copiar";
+    btn.addEventListener("click", function () {
+      copyText(c.text).then(function (ok) {
+        if (ok) {
+          btn.textContent = "Copiado";
+          btn.classList.add("done");
+        } else {
+          btn.textContent = "Selecciona el texto";
+          var range = document.createRange();
+          range.selectNodeContents(body);
+          var sel = window.getSelection();
+          sel.removeAllRanges();
+          sel.addRange(range);
+        }
+      });
+    });
+
+    head.appendChild(title);
+    head.appendChild(btn);
+
+    var body = document.createElement("div");
+    body.className = "script";
+    c.text.split(/\n\n+/).forEach(function (para) {
+      var p = document.createElement("p");
+      p.textContent = para;
+      body.appendChild(p);
+    });
+
+    card.appendChild(head);
+    card.appendChild(body);
+    host.appendChild(card);
+  });
+
+  document.getElementById("total").textContent =
+    "Total: " + fmt(totalChars) + " caracteres en " + CARDS.length + " tarjetas. Límite de CapCut por capa: " + fmt(LIMIT) + ".";
+</script>
