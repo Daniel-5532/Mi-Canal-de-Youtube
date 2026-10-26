@@ -5,9 +5,9 @@
 Every prompt is self-contained (style line included). Add the **overlay text** in your editor, since AI images garble letters.
 
 ## Rhythm rules (follow these when editing)
-1. **Never hold an image longer than ~5 s.** Every shot below already has its own duration; if a clip runs long, cut to the next image early.
+1. **Never hold an image longer than ~6 s.** Every shot below already has its own duration; if a clip runs long, cut to the next image early.
 2. **Always move the camera.** Each shot lists a motion (zoom in, pan, pop-in); alternate them so no two shots in a row move the same way.
-3. **First 30 seconds = fastest cuts** (2–4 s each). Keep the hook dense, then settle into ~4–5 s.
+3. **First 30 seconds = fastest cuts.** Trim each hook shot to ~3–4 s (cut early and add a quick zoom), then settle into ~4–5 s.
 4. **Pattern interrupt every 60–90 s:** a quick whoosh, a color flash, or a bigger overlay on a key date.
 5. **Sound design:** a soft *whoosh* on every cut, a *pop* when overlay text appears, a low *boom* on big moments (1776, the Moon landing). Keep slavery, war casualties, and 9/11 quiet and respectful: no sound effects, just soft music.
 6. **Music:** build energy through the sections; drop volume under the narration, bring it up on scene changes.
