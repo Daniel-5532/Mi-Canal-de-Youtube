@@ -2,7 +2,7 @@
 
 **134 images, synced to the narration of `script-history-of-usa-10-minutes.md`.** Average 4.5 s per image, longest 6.0 s, so the picture changes every 3–7 seconds and the video never goes still.
 
-Style: 2D cartoon web-comic (round white heads, dot eyes, deadpan faces, thick black outlines, painted moody backgrounds), matching the reference screenshots.
+Style: 2D cartoon web-comic (round white heads, dot eyes, deadpan faces, thick black outlines, painted moody backgrounds), matching the reference screenshots. **The art style stays the same so the video looks like one piece, but every prompt has its own cast:** each shot gives different looks (age, build, hairstyle, face) for the main character and the others, and the clothes follow the era, so you never see the same character twice in a row. Delete the "Looks" sentence from any prompt if you prefer to let Flow choose.
 
 Every prompt is self-contained (style line included). **Short overlays (1–3 words) are written into the prompt** as big hand-drawn letters, like the "100+ YEARS" look; if Flow garbles a word, delete it from the prompt and add the text in your editor. **Long overlays** are not in the prompt: add them in the editor.
 
@@ -27,7 +27,7 @@ Every prompt is self-contained (style line included). **Short overlays (1–3 wo
 
 **Shot 1** · 0:00 · 4.4 s · motion: ZOOM IN · overlay: `1491`
 ```
-A small character explorer pointing west at a hand-drawn world map where Europe, Africa and Asia are drawn and the Americas are completely blank. Big bold hand-drawn black letters reading "1491" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A small character explorer pointing west at a hand-drawn world map where Europe, Africa and Asia are drawn and the Americas are completely blank. Big bold hand-drawn black letters reading "1491" in a corner of the image. Looks (every character is different): main character with a young face with messy blond hair and freckles; other characters with an elderly look with white hair and round glasses and a strong build, a square jaw and short brown hair; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 ## 0:04 — "Today, its economy produces more than 28 trillion dollars a year, its …"
@@ -36,12 +36,12 @@ A small character explorer pointing west at a hand-drawn world map where Europe,
 
 **Shot 2** · 0:04 · 6.0 s · motion: PAN RIGHT · overlay: `$28 TRILLION`
 ```
-A huge stack of gold coins as tall as a skyscraper with a character standing on top, cheerful. Big bold hand-drawn black letters reading "$28 TRILLION" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A huge stack of gold coins as tall as a skyscraper with a character standing on top, cheerful. Big bold hand-drawn black letters reading "$28 TRILLION" in a corner of the image. Looks (every character is different): main character with a tight bun, sharp eyebrows and a stern look (woman); other characters with a long braid and a gentle smile (woman) and curly hair and big round earrings (woman); all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 3** · 0:10 · 6.0 s · motion: ZOOM OUT
 ```
-Characters watching movies and listening to music with headphones, with small flags planted around a globe like military bases. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
+Characters watching movies and listening to music with headphones, with small flags planted around a globe like military bases. Looks (every character is different): main character with spiky hair and a nervous smile (teenager); other characters with a heavy build, a thick black mustache and a tired look and a skinny build, a goatee and sleepy half-closed eyes; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
 ## 0:16 — "This is the story of the United States: wars, revolutions, slavery, in…"
@@ -50,12 +50,12 @@ Characters watching movies and listening to music with headphones, with small fl
 
 **Shot 4** · 0:16 · 4.0 s · motion: PAN LEFT
 ```
-Quick montage board: a crossed-swords icon, a crown being knocked off, a broken chain, a light bulb, a falling-chart arrow, drawn as doodles in a grid with a character pointing at them. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
+Quick montage board: a crossed-swords icon, a crown being knocked off, a broken chain, a light bulb, a falling-chart arrow, drawn as doodles in a grid with a character pointing at them. Looks (every character is different): main character with short wavy hair and a determined stare (woman); other characters with sideburns and a worried look (middle-aged man) and big eyes and a bowl-cut hairstyle (child); all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
 **Shot 5** · 0:20 · 4.0 s · motion: POP-IN (elements appear one by one) · overlay: `1492 → 2026`
 ```
-A long horizontal timeline road with a character standing at the start and a glowing sunrise at the end. Big bold hand-drawn black letters reading "1492 → 2026" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A long horizontal timeline road with a character standing at the start and a glowing sunrise at the end. Big bold hand-drawn black letters reading "1492 → 2026" in a corner of the image. Looks (every character is different): main character with a bald head, huge eyebrows and a surprised face; other characters with a side ponytail and a smug smile (woman) and long wavy hair and a scruffy beard; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 ## 0:24 — "All in ten minutes. Let's go."
@@ -64,7 +64,7 @@ A long horizontal timeline road with a character standing at the start and a glo
 
 **Shot 6** · 0:24 · 2.4 s · motion: ZOOM IN · overlay: `10:00`
 ```
-A character holding a big stopwatch and starting to run toward the right, energetic pose. Big bold hand-drawn black letters reading "10:00" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A character holding a big stopwatch and starting to run toward the right, energetic pose. Big bold hand-drawn black letters reading "10:00" in a corner of the image. Looks (every character is different): main character with a high ponytail and a serious face (tall woman); other characters with a gray bun and a wrinkled grin (old woman) and a flat-top haircut and a deadpan look; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 ## 0:27 — "Long before the United States existed, this land was home to millions …"
@@ -73,12 +73,12 @@ A character holding a big stopwatch and starting to run toward the right, energe
 
 **Shot 7** · 0:27 · 3.8 s · motion: PAN RIGHT · overlay: `HUNDREDS OF NATIONS`
 ```
-A giant map of North America covered with many small cone tents in different colors, each with a tiny character waving. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
+A giant map of North America covered with many small cone tents in different colors, each with a tiny character waving. Looks (every character is different): main character with rosy cheeks and a bob haircut (plump woman); other characters with a pointed beard and a sly smirk and a side-parted hairstyle and wide eyes (young man); all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
 **Shot 8** · 0:31 · 3.8 s · motion: ZOOM OUT
 ```
-Characters with feather headbands standing together in a big circle, happy faces, a sun above. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
+Characters with feather headbands standing together in a big circle, happy faces, a sun above. Looks (every character is different): main character with a big nose and a tiny mustache; other characters with two braids and freckles (girl) and thick curly hair and a goofy grin; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
 ## 0:34 — "From the great city of Cahokia, near modern St. Louis, which once riva…"
@@ -87,17 +87,17 @@ Characters with feather headbands standing together in a big circle, happy faces
 
 **Shot 9** · 0:34 · 4.4 s · motion: PAN LEFT · overlay: `CAHOKIA`
 ```
-A big dirt mound city beside a river with many small characters on the steps of the mound. Big bold hand-drawn black letters reading "CAHOKIA" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A big dirt mound city beside a river with many small characters on the steps of the mound. Big bold hand-drawn black letters reading "CAHOKIA" in a corner of the image. Looks (every character is different): main character with sunken eyes and a long thin mustache (gaunt man); other characters with a buzz cut and a calm expression (muscular man) and a headscarf and a kind, tired face (woman); all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 10** · 0:39 · 4.4 s · motion: POP-IN (elements appear one by one) · overlay: `IROQUOIS`
 ```
-A long wooden house with several characters standing around a council fire. Big bold hand-drawn black letters reading "IROQUOIS" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A long wooden house with several characters standing around a council fire. Big bold hand-drawn black letters reading "IROQUOIS" in a corner of the image. Looks (every character is different): main character with a round belly and a bushy ginger mustache; other characters with a tall thin build, a long nose and slicked-back black hair and a short stocky build, a bald head and a thick gray beard; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 11** · 0:43 · 4.4 s · motion: ZOOM IN · overlay: `PUEBLO`
 ```
-Characters near sand-colored adobe houses stacked like steps in a desert with red mesas. Big bold hand-drawn black letters reading "PUEBLO" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+Characters near sand-colored adobe houses stacked like steps in a desert with red mesas. Big bold hand-drawn black letters reading "PUEBLO" in a corner of the image. Looks (every character is different): main character with a young face with messy blond hair and freckles; other characters with an elderly look with white hair and round glasses and a strong build, a square jaw and short brown hair; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 ## 0:48 — "In 1492, Christopher Columbus sails across the Atlantic looking for a …"
@@ -106,12 +106,12 @@ Characters near sand-colored adobe houses stacked like steps in a desert with re
 
 **Shot 12** · 0:48 · 3.8 s · motion: PAN RIGHT · overlay: `1492`
 ```
-Three small ships with triangle sails crossing blue waves, a character captain with a telescope on the front ship. Big bold hand-drawn black letters reading "1492" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+Three small ships with triangle sails crossing blue waves, a character captain with a telescope on the front ship. Big bold hand-drawn black letters reading "1492" in a corner of the image. Looks (every character is different): main character with a tight bun, sharp eyebrows and a stern look (woman); other characters with a long braid and a gentle smile (woman) and curly hair and big round earrings (woman); all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 13** · 0:51 · 3.8 s · motion: ZOOM OUT
 ```
-A character captain stepping onto a tropical beach with palm trees, waving a flag, small characters watching from behind the trees. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
+A character captain stepping onto a tropical beach with palm trees, waving a flag, small characters watching from behind the trees. Looks (every character is different): main character with spiky hair and a nervous smile (teenager); other characters with a heavy build, a thick black mustache and a tired look and a skinny build, a goatee and sleepy half-closed eyes; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
 ## 0:55 — "Explorers and conquistadors follow. The Spanish settle Florida and the…"
@@ -120,17 +120,17 @@ A character captain stepping onto a tropical beach with palm trees, waving a fla
 
 **Shot 14** · 0:55 · 5.2 s · motion: PAN LEFT · overlay: `CONQUISTADORS`
 ```
-Characters in shiny helmets walking across a map holding flags and swords, a big arrow marching forward. Big bold hand-drawn black letters reading "CONQUISTADORS" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+Characters in shiny helmets walking across a map holding flags and swords, a big arrow marching forward. Big bold hand-drawn black letters reading "CONQUISTADORS" in a corner of the image. Looks (every character is different): main character with short wavy hair and a determined stare (woman); other characters with sideburns and a worried look (middle-aged man) and big eyes and a bowl-cut hairstyle (child); all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 15** · 1:00 · 5.2 s · motion: POP-IN (elements appear one by one) · overlay: `ST. AUGUSTINE 1565`
 ```
-A small stone fort beside the sea with a flag, characters guards on top. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
+A small stone fort beside the sea with a flag, characters guards on top. Looks (every character is different): main character with a bald head, huge eyebrows and a surprised face; other characters with a side ponytail and a smug smile (woman) and long wavy hair and a scruffy beard; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
 **Shot 16** · 1:06 · 5.2 s · motion: ZOOM IN · overlay: `1607 · 1620`
 ```
-Characters in tall black hats stepping from a wooden ship onto a rocky shore with boxes and bags. Big bold hand-drawn black letters reading "1607 · 1620" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+Characters in tall black hats stepping from a wooden ship onto a rocky shore with boxes and bags. Big bold hand-drawn black letters reading "1607 · 1620" in a corner of the image. Looks (every character is different): main character with a high ponytail and a serious face (tall woman); other characters with a gray bun and a wrinkled grin (old woman) and a flat-top haircut and a deadpan look; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 ## 1:11 — "But European arrival brought devastation: diseases like smallpox, agai…"
@@ -139,12 +139,12 @@ Characters in tall black hats stepping from a wooden ship onto a rocky shore wit
 
 **Shot 17** · 1:11 · 4.6 s · motion: PAN RIGHT · overlay: `SMALLPOX`
 ```
-A sad character sitting with red dots all over his body, a tiny germ shape floating above him, muted colors. Big bold hand-drawn black letters reading "SMALLPOX" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A sad character sitting with red dots all over his body, a tiny germ shape floating above him, muted colors. Big bold hand-drawn black letters reading "SMALLPOX" in a corner of the image. Looks (every character is different): main character with rosy cheeks and a bob haircut (plump woman); other characters with a pointed beard and a sly smirk and a side-parted hairstyle and wide eyes (young man); all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 18** · 1:15 · 4.6 s · motion: ZOOM OUT
 ```
-A big crowd of characters on the left shrinking into just a few characters on the right, an arrow pointing down between them. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
+A big crowd of characters on the left shrinking into just a few characters on the right, an arrow pointing down between them. Looks (every character is different): main character with a big nose and a tiny mustache; other characters with two braids and freckles (girl) and thick curly hair and a goofy grin; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
 ## 1:20 — "Other European powers were here too: the French along the St. Lawrence…"
@@ -153,17 +153,17 @@ A big crowd of characters on the left shrinking into just a few characters on th
 
 **Shot 19** · 1:20 · 4.5 s · motion: PAN LEFT · overlay: `FRENCH`
 ```
-A character in a beret paddling a canoe along a river, a small flag with a flower symbol. Big bold hand-drawn black letters reading "FRENCH" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A character in a beret paddling a canoe along a river, a small flag with a flower symbol. Big bold hand-drawn black letters reading "FRENCH" in a corner of the image. Looks (every character is different): main character with sunken eyes and a long thin mustache (gaunt man); other characters with a buzz cut and a calm expression (muscular man) and a headscarf and a kind, tired face (woman); all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 20** · 1:25 · 4.5 s · motion: POP-IN (elements appear one by one) · overlay: `DUTCH`
 ```
-A character next to a windmill and tulips, a small city with tall narrow houses behind him. Big bold hand-drawn black letters reading "DUTCH" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A character next to a windmill and tulips, a small city with tall narrow houses behind him. Big bold hand-drawn black letters reading "DUTCH" in a corner of the image. Looks (every character is different): main character with a round belly and a bushy ginger mustache; other characters with a tall thin build, a long nose and slicked-back black hair and a short stocky build, a bald head and a thick gray beard; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 21** · 1:29 · 4.5 s · motion: ZOOM IN
 ```
-Three characters of different nations pulling a big map in three directions, each with a different flag, confused faces. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
+Three characters of different nations pulling a big map in three directions, each with a different flag, confused faces. Looks (every character is different): main character with a young face with messy blond hair and freckles; other characters with an elderly look with white hair and round glasses and a strong build, a square jaw and short brown hair; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
 ## 1:34 — "Through the 1600s and 1700s, England builds thirteen colonies along th…"
@@ -172,12 +172,12 @@ Three characters of different nations pulling a big map in three directions, eac
 
 **Shot 22** · 1:34 · 3.6 s · motion: PAN RIGHT · overlay: `13 COLONIES`
 ```
-A doodle map of the east coast with thirteen small colorful houses lined up, each with a tiny character at the door. Big bold hand-drawn black letters reading "13 COLONIES" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A doodle map of the east coast with thirteen small colorful houses lined up, each with a tiny character at the door. Big bold hand-drawn black letters reading "13 COLONIES" in a corner of the image. Looks (every character is different): main character with a tight bun, sharp eyebrows and a stern look (woman); other characters with a long braid and a gentle smile (woman) and curly hair and big round earrings (woman); all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 23** · 1:37 · 3.6 s · motion: ZOOM OUT
 ```
-Thirteen small flags in a row, each with a different symbol, a character in front of each one. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
+Thirteen small flags in a row, each with a different symbol, a character in front of each one. Looks (every character is different): main character with spiky hair and a nervous smile (teenager); other characters with a heavy build, a thick black mustache and a tired look and a skinny build, a goatee and sleepy half-closed eyes; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
 ## 1:41 — "In the North, there was trade, fishing, and small farming. In the Sout…"
@@ -186,12 +186,12 @@ Thirteen small flags in a row, each with a different symbol, a character in fron
 
 **Shot 24** · 1:41 · 4.0 s · motion: PAN LEFT · overlay: `THE NORTH`
 ```
-The North: characters fishing from small boats and farming small fields, a few shops with a town street. Big bold hand-drawn black letters reading "THE NORTH" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+The North: characters fishing from small boats and farming small fields, a few shops with a town street. Big bold hand-drawn black letters reading "THE NORTH" in a corner of the image. Looks (every character is different): main character with short wavy hair and a determined stare (woman); other characters with sideburns and a worried look (middle-aged man) and big eyes and a bowl-cut hairstyle (child); all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 25** · 1:45 · 4.0 s · motion: POP-IN (elements appear one by one) · overlay: `THE SOUTH`
 ```
-The South: huge green fields of cotton and tobacco under a big sun, a large white mansion in the distance. Big bold hand-drawn black letters reading "THE SOUTH" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+The South: huge green fields of cotton and tobacco under a big sun, a large white mansion in the distance. Big bold hand-drawn black letters reading "THE SOUTH" in a corner of the image. Looks (every character is different): main character with a bald head, huge eyebrows and a surprised face; other characters with a side ponytail and a smug smile (woman) and long wavy hair and a scruffy beard; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 ## 1:49 — "And those plantations ran on enslaved labor. In 1619, the first Africa…"
@@ -200,12 +200,12 @@ The South: huge green fields of cotton and tobacco under a big sun, a large whit
 
 **Shot 26** · 1:49 · 5.8 s · motion: ZOOM IN · overlay: `1619`
 ```
-A wooden ship arriving at a harbor in Virginia, characters on the deck with sad faces, muted gray colors, somber mood, no violence. Big bold hand-drawn black letters reading "1619" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A wooden ship arriving at a harbor in Virginia, characters on the deck with sad faces, muted gray colors, somber mood, no violence. Big bold hand-drawn black letters reading "1619" in a corner of the image. Looks (every character is different): main character with a high ponytail and a serious face (tall woman); other characters with a gray bun and a wrinkled grin (old woman) and a flat-top haircut and a deadpan look; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 27** · 1:55 · 5.8 s · motion: PAN RIGHT
 ```
-A cutaway of a ship deck showing many characters sitting in rows, dark blue colors, a small candle, somber mood, no violence. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
+A cutaway of a ship deck showing many characters sitting in rows, dark blue colors, a small candle, somber mood, no violence. Looks (every character is different): main character with rosy cheeks and a bob haircut (plump woman); other characters with a pointed beard and a sly smirk and a side-parted hairstyle and wide eyes (young man); all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
 ## 2:00 — "By the time of the Revolution, slavery was legal in every one of the t…"
@@ -214,17 +214,17 @@ A cutaway of a ship deck showing many characters sitting in rows, dark blue colo
 
 **Shot 28** · 2:00 · 4.3 s · motion: ZOOM OUT · overlay: `SLAVERY IN ALL 13`
 ```
-A map of thirteen colonies with a long broken chain stretched across all of them, somber mood. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
+A map of thirteen colonies with a long broken chain stretched across all of them, somber mood. Looks (every character is different): main character with a big nose and a tiny mustache; other characters with two braids and freckles (girl) and thick curly hair and a goofy grin; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
 **Shot 29** · 2:05 · 4.3 s · motion: PAN LEFT
 ```
-A character with a bandage on his head standing next to a map of the country, a big crack across the map, serious mood. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
+A character with a bandage on his head standing next to a map of the country, a big crack across the map, serious mood. Looks (every character is different): main character with sunken eyes and a long thin mustache (gaunt man); other characters with a buzz cut and a calm expression (muscular man) and a headscarf and a kind, tired face (woman); all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
 **Shot 30** · 2:09 · 4.3 s · motion: POP-IN (elements appear one by one) · overlay: `200 YEARS`
 ```
-A big calendar page flipping through two hundred years, a heavy shadow on the pages. Big bold hand-drawn black letters reading "200 YEARS" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A big calendar page flipping through two hundred years, a heavy shadow on the pages. Big bold hand-drawn black letters reading "200 YEARS" in a corner of the image. Looks (every character is different): main character with a round belly and a bushy ginger mustache; other characters with a tall thin build, a long nose and slicked-back black hair and a short stocky build, a bald head and a thick gray beard; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 ## 2:13 — "Meanwhile, ideas were growing too. Colonial assemblies, town meetings,…"
@@ -233,12 +233,12 @@ A big calendar page flipping through two hundred years, a heavy shadow on the pa
 
 **Shot 31** · 2:13 · 5.2 s · motion: ZOOM IN · overlay: `TOWN MEETINGS`
 ```
-Characters sitting in a circle in a small wooden town hall, one raising his hand to speak, others listening. Big bold hand-drawn black letters reading "TOWN MEETINGS" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+Characters sitting in a circle in a small wooden town hall, one raising his hand to speak, others listening. Big bold hand-drawn black letters reading "TOWN MEETINGS" in a corner of the image. Looks (every character is different): main character with a young face with messy blond hair and freckles; other characters with an elderly look with white hair and round glasses and a strong build, a square jaw and short brown hair; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 32** · 2:18 · 5.2 s · motion: PAN RIGHT
 ```
-A character operating an old printing press, newspapers flying out and other characters reading them. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
+A character operating an old printing press, newspapers flying out and other characters reading them. Looks (every character is different): main character with a tight bun, sharp eyebrows and a stern look (woman); other characters with a long braid and a gentle smile (woman) and curly hair and big round earrings (woman); all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
 ## 2:24 — "After winning the war against France in 1763, Britain is deeply in deb…"
@@ -247,12 +247,12 @@ A character operating an old printing press, newspapers flying out and other cha
 
 **Shot 33** · 2:24 · 5.8 s · motion: ZOOM OUT · overlay: `1763`
 ```
-A character king on a throne counting a huge pile of unpaid bills, angry face, a long list of debts. Big bold hand-drawn black letters reading "1763" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A character king on a throne counting a huge pile of unpaid bills, angry face, a long list of debts. Big bold hand-drawn black letters reading "1763" in a corner of the image. Looks (every character is different): main character with spiky hair and a nervous smile (teenager); other characters with a heavy build, a thick black mustache and a tired look and a skinny build, a goatee and sleepy half-closed eyes; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 34** · 2:29 · 5.8 s · motion: PAN LEFT · overlay: `STAMP ACT · TEA ACT`
 ```
-A character tax collector in a tall hat sticking a stamp on a paper and a box of tea, colonists watching with angry faces. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
+A character tax collector in a tall hat sticking a stamp on a paper and a box of tea, colonists watching with angry faces. Looks (every character is different): main character with short wavy hair and a determined stare (woman); other characters with sideburns and a worried look (middle-aged man) and big eyes and a bowl-cut hairstyle (child); all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
 ## 2:35 — "The colonists protest with a phrase that became famous: 'No taxation w…"
@@ -261,7 +261,7 @@ A character tax collector in a tall hat sticking a stamp on a paper and a box of
 
 **Shot 35** · 2:35 · 5.2 s · motion: POP-IN (elements appear one by one) · overlay: `NO TAXATION WITHOUT REPRESENTATION`
 ```
-A crowd of angry characters holding blank protest signs and a megaphone, fists in the air. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
+A crowd of angry characters holding blank protest signs and a megaphone, fists in the air. Looks (every character is different): main character with a bald head, huge eyebrows and a surprised face; other characters with a side ponytail and a smug smile (woman) and long wavy hair and a scruffy beard; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
 ## 2:40 — "Tensions rise. The Boston Massacre in 1770. The Boston Tea Party in 17…"
@@ -270,12 +270,12 @@ A crowd of angry characters holding blank protest signs and a megaphone, fists i
 
 **Shot 36** · 2:40 · 4.6 s · motion: ZOOM IN · overlay: `BOSTON 1770`
 ```
-Character soldiers in red coats lined up facing a crowd of characters, tense moment, no blood. Big bold hand-drawn black letters reading "BOSTON 1770" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+Character soldiers in red coats lined up facing a crowd of characters, tense moment, no blood. Big bold hand-drawn black letters reading "BOSTON 1770" in a corner of the image. Looks (every character is different): main character with a high ponytail and a serious face (tall woman); other characters with a gray bun and a wrinkled grin (old woman) and a flat-top haircut and a deadpan look; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 37** · 2:45 · 4.6 s · motion: PAN RIGHT · overlay: `BOSTON TEA PARTY 1773`
 ```
-Night harbor, characters in three-cornered hats throwing wooden crates of tea off a ship, a big full moon. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
+Night harbor, characters in three-cornered hats throwing wooden crates of tea off a ship, a big full moon. Looks (every character is different): main character with rosy cheeks and a bob haircut (plump woman); other characters with a pointed beard and a sly smirk and a side-parted hairstyle and wide eyes (young man); all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
 ## 2:50 — "And in 1775, war breaks out at Lexington and Concord."
@@ -284,7 +284,7 @@ Night harbor, characters in three-cornered hats throwing wooden crates of tea of
 
 **Shot 38** · 2:50 · 4.0 s · motion: ZOOM OUT · overlay: `1775`
 ```
-Characters with muskets on a green field, puffs of white smoke, a small church in the background. Big bold hand-drawn black letters reading "1775" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+Characters with muskets on a green field, puffs of white smoke, a small church in the background. Big bold hand-drawn black letters reading "1775" in a corner of the image. Looks (every character is different): main character with a big nose and a tiny mustache; other characters with two braids and freckles (girl) and thick curly hair and a goofy grin; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 ## 2:54 — "On July 4th, 1776, the Declaration of Independence is adopted, written…"
@@ -293,12 +293,12 @@ Characters with muskets on a green field, puffs of white smoke, a small church i
 
 **Shot 39** · 2:54 · 3.0 s · motion: PAN LEFT · overlay: `JULY 4, 1776`
 ```
-A calendar page with a big circle around the number 4 and small fireworks around it. Big bold hand-drawn black letters reading "JULY 4, 1776" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A calendar page with a big circle around the number 4 and small fireworks around it. Big bold hand-drawn black letters reading "JULY 4, 1776" in a corner of the image. Looks (every character is different): main character with sunken eyes and a long thin mustache (gaunt man); other characters with a buzz cut and a calm expression (muscular man) and a headscarf and a kind, tired face (woman); all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 40** · 2:57 · 3.0 s · motion: POP-IN (elements appear one by one)
 ```
-A character with a feather quill writing on a huge scroll while others in curly white wigs watch. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
+A character with a feather quill writing on a huge scroll while others in curly white wigs watch. Looks (every character is different): main character with a round belly and a bushy ginger mustache; other characters with a tall thin build, a long nose and slicked-back black hair and a short stocky build, a bald head and a thick gray beard; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
 ## 3:00 — "It declares that 'all men are created equal'... though at the time, th…"
@@ -307,12 +307,12 @@ A character with a feather quill writing on a huge scroll while others in curly 
 
 **Shot 41** · 3:00 · 4.2 s · motion: ZOOM IN · overlay: `ALL MEN ARE CREATED EQUAL`
 ```
-A big scroll with a short list of character portraits equal in size and a glowing line connecting them. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
+A big scroll with a short list of character portraits equal in size and a glowing line connecting them. Looks (every character is different): main character with a young face with messy blond hair and freckles; other characters with an elderly look with white hair and round glasses and a strong build, a square jaw and short brown hair; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
 **Shot 42** · 3:04 · 4.2 s · motion: PAN RIGHT
 ```
-Three groups of characters standing outside a closed door: one in chains, one with feather headbands, and several women in long dresses, sad faces. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
+Three groups of characters standing outside a closed door: one in chains, one with feather headbands, and several women in long dresses, sad faces. Looks (every character is different): main character with a tight bun, sharp eyebrows and a stern look (woman); other characters with a long braid and a gentle smile (woman) and curly hair and big round earrings (woman); all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
 ## 3:08 — "The war is long and hard. But with George Washington in command and cr…"
@@ -321,12 +321,12 @@ Three groups of characters standing outside a closed door: one in chains, one wi
 
 **Shot 43** · 3:08 · 4.8 s · motion: ZOOM OUT · overlay: `1775–1781`
 ```
-Tired character soldiers marching in snow with torn flags, long hard winter, gray colors. Big bold hand-drawn black letters reading "1775–1781" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+Tired character soldiers marching in snow with torn flags, long hard winter, gray colors. Big bold hand-drawn black letters reading "1775–1781" in a corner of the image. Looks (every character is different): main character with spiky hair and a nervous smile (teenager); other characters with a heavy build, a thick black mustache and a tired look and a skinny build, a goatee and sleepy half-closed eyes; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 44** · 3:13 · 4.8 s · motion: PAN LEFT · overlay: `YORKTOWN 1781`
 ```
-Character soldiers firing a cannon next to a group of allies with a different flag, big smoke cloud. Big bold hand-drawn black letters reading "YORKTOWN 1781" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+Character soldiers firing a cannon next to a group of allies with a different flag, big smoke cloud. Big bold hand-drawn black letters reading "YORKTOWN 1781" in a corner of the image. Looks (every character is different): main character with short wavy hair and a determined stare (woman); other characters with sideburns and a worried look (middle-aged man) and big eyes and a bowl-cut hairstyle (child); all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 ## 3:18 — "Britain recognizes independence in 1783. In 1787, the Constitution is …"
@@ -335,17 +335,17 @@ Character soldiers firing a cannon next to a group of allies with a different fl
 
 **Shot 45** · 3:18 · 3.2 s · motion: POP-IN (elements appear one by one) · overlay: `1783`
 ```
-A small character lowering a red-white flag while another raises a blue-and-white starred flag. Big bold hand-drawn black letters reading "1783" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A small character lowering a red-white flag while another raises a blue-and-white starred flag. Big bold hand-drawn black letters reading "1783" in a corner of the image. Looks (every character is different): main character with a bald head, huge eyebrows and a surprised face; other characters with a side ponytail and a smug smile (woman) and long wavy hair and a scruffy beard; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 46** · 3:21 · 3.2 s · motion: ZOOM IN · overlay: `CONSTITUTION 1787`
 ```
-A giant unrolled scroll on a table with a character signing it. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
+A giant unrolled scroll on a table with a character signing it. Looks (every character is different): main character with a high ponytail and a serious face (tall woman); other characters with a gray bun and a wrinkled grin (old woman) and a flat-top haircut and a deadpan look; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
 **Shot 47** · 3:24 · 3.2 s · motion: PAN RIGHT · overlay: `1789`
 ```
-A character in a coat standing on a small podium waving to a crowd of characters. Big bold hand-drawn black letters reading "1789" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A character in a coat standing on a small podium waving to a crowd of characters. Big bold hand-drawn black letters reading "1789" in a corner of the image. Looks (every character is different): main character with rosy cheeks and a bob haircut (plump woman); other characters with a pointed beard and a sly smirk and a side-parted hairstyle and wide eyes (young man); all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 ## 3:27 — "Think about how improbable it was: thirteen small colonies, with no re…"
@@ -354,17 +354,17 @@ A character in a coat standing on a small podium waving to a crowd of characters
 
 **Shot 48** · 3:27 · 5.2 s · motion: ZOOM OUT · overlay: `DAVID VS. GOLIATH`
 ```
-A tiny character holding a slingshot standing in front of a huge character empire giant, David versus Goliath style. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
+A tiny character holding a slingshot standing in front of a huge character empire giant, David versus Goliath style. Looks (every character is different): main character with a big nose and a tiny mustache; other characters with two braids and freckles (girl) and thick curly hair and a goofy grin; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
 **Shot 49** · 3:32 · 5.2 s · motion: PAN LEFT
 ```
-A group of characters with empty pockets turned out, shrugging, a small bag of coins on the floor. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
+A group of characters with empty pockets turned out, shrugging, a small bag of coins on the floor. Looks (every character is different): main character with sunken eyes and a long thin mustache (gaunt man); other characters with a buzz cut and a calm expression (muscular man) and a headscarf and a kind, tired face (woman); all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
 **Shot 50** · 3:38 · 5.2 s · motion: POP-IN (elements appear one by one)
 ```
-A group of nervous characters holding quills, sweating, with a shadow of a rope on the wall behind them, cartoon style. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
+A group of nervous characters holding quills, sweating, with a shadow of a rope on the wall behind them, cartoon style. Looks (every character is different): main character with a round belly and a bushy ginger mustache; other characters with a tall thin build, a long nose and slicked-back black hair and a short stocky build, a bald head and a thick gray beard; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
 ## 3:43 — "The new country was small: barely the East Coast. But it grows fast."
@@ -373,12 +373,12 @@ A group of nervous characters holding quills, sweating, with a shadow of a rope 
 
 **Shot 51** · 3:43 · 2.6 s · motion: ZOOM IN · overlay: `1783`
 ```
-A small map of just the east coast, a character standing on it looking at the big blank area to the west. Big bold hand-drawn black letters reading "1783" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A small map of just the east coast, a character standing on it looking at the big blank area to the west. Big bold hand-drawn black letters reading "1783" in a corner of the image. Looks (every character is different): main character with a young face with messy blond hair and freckles; other characters with an elderly look with white hair and round glasses and a strong build, a square jaw and short brown hair; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 52** · 3:45 · 2.6 s · motion: PAN RIGHT
 ```
-The same map with a big arrow growing to the west and the country shape stretching bigger. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
+The same map with a big arrow growing to the west and the country shape stretching bigger. Looks (every character is different): main character with a tight bun, sharp eyebrows and a stern look (woman); other characters with a long braid and a gentle smile (woman) and curly hair and big round earrings (woman); all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
 ## 3:48 — "In 1803, the U.S. buys the enormous Louisiana Territory from France fo…"
@@ -387,12 +387,12 @@ The same map with a big arrow growing to the west and the country shape stretchi
 
 **Shot 53** · 3:48 · 3.8 s · motion: ZOOM OUT · overlay: `1803 · $15 MILLION`
 ```
-A character handing a bag of money to another character across a table, a huge map of land behind them. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
+A character handing a bag of money to another character across a table, a huge map of land behind them. Looks (every character is different): main character with spiky hair and a nervous smile (teenager); other characters with a heavy build, a thick black mustache and a tired look and a skinny build, a goatee and sleepy half-closed eyes; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
 **Shot 54** · 3:52 · 3.8 s · motion: PAN LEFT · overlay: `DOUBLE SIZE`
 ```
-A map of the country doubling in size, a big plus sign and a character jumping with joy. Big bold hand-drawn black letters reading "DOUBLE SIZE" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A map of the country doubling in size, a big plus sign and a character jumping with joy. Big bold hand-drawn black letters reading "DOUBLE SIZE" in a corner of the image. Looks (every character is different): main character with short wavy hair and a determined stare (woman); other characters with sideburns and a worried look (middle-aged man) and big eyes and a bowl-cut hairstyle (child); all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 ## 3:56 — "Lewis and Clark set out to explore the West, all the way to the Pacifi…"
@@ -401,7 +401,7 @@ A map of the country doubling in size, a big plus sign and a character jumping w
 
 **Shot 55** · 3:56 · 6.0 s · motion: POP-IN (elements appear one by one) · overlay: `LEWIS & CLARK`
 ```
-Two characters in a canoe paddling through mountains with a compass, a distant ocean on the horizon. Big bold hand-drawn black letters reading "LEWIS & CLARK" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+Two characters in a canoe paddling through mountains with a compass, a distant ocean on the horizon. Big bold hand-drawn black letters reading "LEWIS & CLARK" in a corner of the image. Looks (every character is different): main character with a bald head, huge eyebrows and a surprised face; other characters with a side ponytail and a smug smile (woman) and long wavy hair and a scruffy beard; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 ## 4:02 — "The idea of 'Manifest Destiny' takes hold: the belief that the nation …"
@@ -410,12 +410,12 @@ Two characters in a canoe paddling through mountains with a compass, a distant o
 
 **Shot 56** · 4:02 · 4.0 s · motion: ZOOM IN · overlay: `MANIFEST DESTINY`
 ```
-A giant character with arms stretched from the east coast to the west coast of a map, determined face. Big bold hand-drawn black letters reading "MANIFEST DESTINY" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A giant character with arms stretched from the east coast to the west coast of a map, determined face. Big bold hand-drawn black letters reading "MANIFEST DESTINY" in a corner of the image. Looks (every character is different): main character with a high ponytail and a serious face (tall woman); other characters with a gray bun and a wrinkled grin (old woman) and a flat-top haircut and a deadpan look; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 57** · 4:06 · 4.0 s · motion: PAN RIGHT
 ```
-A glowing finger pointing west over a map with a trail of small wagons following it. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
+A glowing finger pointing west over a map with a trail of small wagons following it. Looks (every character is different): main character with rosy cheeks and a bob haircut (plump woman); other characters with a pointed beard and a sly smirk and a side-parted hairstyle and wide eyes (young man); all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
 ## 4:10 — "In 1845, Texas joins the Union. In 1846, war with Mexico begins, and i…"
@@ -424,12 +424,12 @@ A glowing finger pointing west over a map with a trail of small wagons following
 
 **Shot 58** · 4:10 · 5.0 s · motion: ZOOM OUT · overlay: `1845`
 ```
-A big star flying into a flag with a character cheering and a state outline of Texas. Big bold hand-drawn black letters reading "1845" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A big star flying into a flag with a character cheering and a state outline of Texas. Big bold hand-drawn black letters reading "1845" in a corner of the image. Looks (every character is different): main character with a big nose and a tiny mustache; other characters with two braids and freckles (girl) and thick curly hair and a goofy grin; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 59** · 4:15 · 5.0 s · motion: PAN LEFT · overlay: `1846–1848`
 ```
-A map with an arrow pushing from a character in blue to a character in green, the southwest land changing color. Big bold hand-drawn black letters reading "1846–1848" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A map with an arrow pushing from a character in blue to a character in green, the southwest land changing color. Big bold hand-drawn black letters reading "1846–1848" in a corner of the image. Looks (every character is different): main character with sunken eyes and a long thin mustache (gaunt man); other characters with a buzz cut and a calm expression (muscular man) and a headscarf and a kind, tired face (woman); all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 ## 4:20 — "In 1849, the Gold Rush draws hundreds of thousands of people to Califo…"
@@ -438,7 +438,7 @@ A map with an arrow pushing from a character in blue to a character in green, th
 
 **Shot 60** · 4:20 · 5.2 s · motion: POP-IN (elements appear one by one) · overlay: `1849 GOLD RUSH`
 ```
-A happy character with dollar signs in his eyes holding a gold nugget, a river and a tent behind him. Big bold hand-drawn black letters reading "1849 GOLD RUSH" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A happy character with dollar signs in his eyes holding a gold nugget, a river and a tent behind him. Big bold hand-drawn black letters reading "1849 GOLD RUSH" in a corner of the image. Looks (every character is different): main character with a round belly and a bushy ginger mustache; other characters with a tall thin build, a long nose and slicked-back black hair and a short stocky build, a bald head and a thick gray beard; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 ## 4:25 — "And all the while, expansion came at a brutal cost for Native peoples.…"
@@ -447,17 +447,17 @@ A happy character with dollar signs in his eyes holding a gold nugget, a river a
 
 **Shot 61** · 4:25 · 4.9 s · motion: ZOOM IN · overlay: `INDIAN REMOVAL ACT 1830`
 ```
-Characters with feather headbands looking at an old village while a big paper law with a stamp hangs in the air. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
+Characters with feather headbands looking at an old village while a big paper law with a stamp hangs in the air. Looks (every character is different): main character with a young face with messy blond hair and freckles; other characters with an elderly look with white hair and round glasses and a strong build, a square jaw and short brown hair; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
 **Shot 62** · 4:30 · 4.9 s · motion: PAN RIGHT · overlay: `TRAIL OF TEARS`
 ```
-A long line of sad characters with bags walking slowly across a gray plain, muted colors, no violence. Big bold hand-drawn black letters reading "TRAIL OF TEARS" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A long line of sad characters with bags walking slowly across a gray plain, muted colors, no violence. Big bold hand-drawn black letters reading "TRAIL OF TEARS" in a corner of the image. Looks (every character is different): main character with a tight bun, sharp eyebrows and a stern look (woman); other characters with a long braid and a gentle smile (woman) and curly hair and big round earrings (woman); all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 63** · 4:35 · 4.9 s · motion: ZOOM OUT
 ```
-A map with a long arrow from the east to the far west, small characters walking along it, somber mood. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
+A map with a long arrow from the east to the far west, small characters walking along it, somber mood. Looks (every character is different): main character with spiky hair and a nervous smile (teenager); other characters with a heavy build, a thick black mustache and a tired look and a skinny build, a goatee and sleepy half-closed eyes; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
 ## 4:40 — "Steamboats, canals, and then railroads shrink the distances. Pioneers …"
@@ -466,17 +466,17 @@ A map with a long arrow from the east to the far west, small characters walking 
 
 **Shot 64** · 4:40 · 3.9 s · motion: PAN LEFT · overlay: `STEAMBOATS · CANALS`
 ```
-A paddle steamboat on a river and a small canal with a character at the front steering. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
+A paddle steamboat on a river and a small canal with a character at the front steering. Looks (every character is different): main character with short wavy hair and a determined stare (woman); other characters with sideburns and a worried look (middle-aged man) and big eyes and a bowl-cut hairstyle (child); all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
 **Shot 65** · 4:43 · 3.9 s · motion: POP-IN (elements appear one by one) · overlay: `OREGON TRAIL`
 ```
-A line of covered wagons crossing prairie and mountains on a trail, a character waving his hat. Big bold hand-drawn black letters reading "OREGON TRAIL" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A line of covered wagons crossing prairie and mountains on a trail, a character waving his hat. Big bold hand-drawn black letters reading "OREGON TRAIL" in a corner of the image. Looks (every character is different): main character with a bald head, huge eyebrows and a surprised face; other characters with a side ponytail and a smug smile (woman) and long wavy hair and a scruffy beard; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 66** · 4:47 · 3.9 s · motion: ZOOM IN · overlay: `CHICAGO · ST. LOUIS`
 ```
-Two busy doodle cities with tall buildings and trains, one by a lake and one by a river, tiny characters everywhere. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
+Two busy doodle cities with tall buildings and trains, one by a lake and one by a river, tiny characters everywhere. Looks (every character is different): main character with a high ponytail and a serious face (tall woman); other characters with a gray bun and a wrinkled grin (old woman) and a flat-top haircut and a deadpan look; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
 ## 4:51 — "By the mid-1800s, the fight over whether new territories would be free…"
@@ -485,12 +485,12 @@ Two busy doodle cities with tall buildings and trains, one by a lake and one by 
 
 **Shot 67** · 4:51 · 3.4 s · motion: PAN RIGHT · overlay: `FREE VS. SLAVE`
 ```
-A map of the country split in the middle by a thick line, one side with green fields and the other with cotton plantations, two characters glaring at each other. Big bold hand-drawn black letters reading "FREE VS. SLAVE" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A map of the country split in the middle by a thick line, one side with green fields and the other with cotton plantations, two characters glaring at each other. Big bold hand-drawn black letters reading "FREE VS. SLAVE" in a corner of the image. Looks (every character is different): main character with rosy cheeks and a bob haircut (plump woman); other characters with a pointed beard and a sly smirk and a side-parted hairstyle and wide eyes (young man); all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 68** · 4:55 · 3.4 s · motion: ZOOM OUT
 ```
-A giant wooden see-saw with a map on each side tipping back and forth, nervous characters holding on. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
+A giant wooden see-saw with a map on each side tipping back and forth, nervous characters holding on. Looks (every character is different): main character with a big nose and a tiny mustache; other characters with two braids and freckles (girl) and thick curly hair and a goofy grin; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
 ## 4:58 — "In 1860, Abraham Lincoln, who opposed the spread of slavery, is electe…"
@@ -499,17 +499,17 @@ A giant wooden see-saw with a map on each side tipping back and forth, nervous c
 
 **Shot 69** · 4:58 · 4.0 s · motion: PAN LEFT · overlay: `1860`
 ```
-A very tall character in a black stovepipe hat standing on a podium with a banner, a crowd cheering. Big bold hand-drawn black letters reading "1860" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A very tall character in a black stovepipe hat standing on a podium with a banner, a crowd cheering. Big bold hand-drawn black letters reading "1860" in a corner of the image. Looks (every character is different): main character with sunken eyes and a long thin mustache (gaunt man); other characters with a buzz cut and a calm expression (muscular man) and a headscarf and a kind, tired face (woman); all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 70** · 5:02 · 4.0 s · motion: POP-IN (elements appear one by one) · overlay: `7 STATES LEAVE`
 ```
-Seven small stars floating away from a big blue star flag, characters waving their own new flag. Big bold hand-drawn black letters reading "7 STATES LEAVE" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+Seven small stars floating away from a big blue star flag, characters waving their own new flag. Big bold hand-drawn black letters reading "7 STATES LEAVE" in a corner of the image. Looks (every character is different): main character with a round belly and a bushy ginger mustache; other characters with a tall thin build, a long nose and slicked-back black hair and a short stocky build, a bald head and a thick gray beard; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 71** · 5:06 · 4.0 s · motion: ZOOM IN · overlay: `APRIL 1861`
 ```
-Two armies of characters, blue vs gray, facing each other across a field with cannons, no blood. Big bold hand-drawn black letters reading "APRIL 1861" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+Two armies of characters, blue vs gray, facing each other across a field with cannons, no blood. Big bold hand-drawn black letters reading "APRIL 1861" in a corner of the image. Looks (every character is different): main character with a young face with messy blond hair and freckles; other characters with an elderly look with white hair and round glasses and a strong build, a square jaw and short brown hair; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 ## 5:10 — "It was the bloodiest conflict in American history: about 620,000 soldi…"
@@ -518,7 +518,7 @@ Two armies of characters, blue vs gray, facing each other across a field with ca
 
 **Shot 72** · 5:10 · 4.8 s · motion: PAN RIGHT · overlay: `620,000`
 ```
-A huge field filled with small helmets and flags standing in rows, a single sad character standing in front, somber mood. Big bold hand-drawn black letters reading "620,000" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A huge field filled with small helmets and flags standing in rows, a single sad character standing in front, somber mood. Big bold hand-drawn black letters reading "620,000" in a corner of the image. Looks (every character is different): main character with a tight bun, sharp eyebrows and a stern look (woman); other characters with a long braid and a gentle smile (woman) and curly hair and big round earrings (woman); all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 ## 5:15 — "In 1863, Lincoln issues the Emancipation Proclamation, and later that …"
@@ -527,17 +527,17 @@ A huge field filled with small helmets and flags standing in rows, a single sad 
 
 **Shot 73** · 5:15 · 4.7 s · motion: ZOOM OUT · overlay: `1863`
 ```
-A tall character in a top hat holding a big scroll with a broken chain on it, a crowd cheering. Big bold hand-drawn black letters reading "1863" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A tall character in a top hat holding a big scroll with a broken chain on it, a crowd cheering. Big bold hand-drawn black letters reading "1863" in a corner of the image. Looks (every character is different): main character with spiky hair and a nervous smile (teenager); other characters with a heavy build, a thick black mustache and a tired look and a skinny build, a goatee and sleepy half-closed eyes; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 74** · 5:19 · 4.7 s · motion: PAN LEFT · overlay: `1865 · 13TH AMENDMENT`
 ```
-A character in gray lowering a white flag toward a character in blue, quiet moment, and a broken chain falling to the ground. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
+A character in gray lowering a white flag toward a character in blue, quiet moment, and a broken chain falling to the ground. Looks (every character is different): main character with short wavy hair and a determined stare (woman); other characters with sideburns and a worried look (middle-aged man) and big eyes and a bowl-cut hairstyle (child); all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
 **Shot 75** · 5:24 · 4.7 s · motion: POP-IN (elements appear one by one)
 ```
-A black top hat lying on the floor in an empty theater box, sad characters standing in a small circle. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
+A black top hat lying on the floor in an empty theater box, sad characters standing in a small circle. Looks (every character is different): main character with a bald head, huge eyebrows and a surprised face; other characters with a side ponytail and a smug smile (woman) and long wavy hair and a scruffy beard; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
 ## 5:29 — "Then came Reconstruction, an attempt to bring Black Americans into ful…"
@@ -546,17 +546,17 @@ A black top hat lying on the floor in an empty theater box, sad characters stand
 
 **Shot 76** · 5:29 · 4.7 s · motion: ZOOM IN · overlay: `RECONSTRUCTION`
 ```
-Characters of different colors going to vote together with a paper ballot, hopeful mood. Big bold hand-drawn black letters reading "RECONSTRUCTION" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+Characters of different colors going to vote together with a paper ballot, hopeful mood. Big bold hand-drawn black letters reading "RECONSTRUCTION" in a corner of the image. Looks (every character is different): main character with a high ponytail and a serious face (tall woman); other characters with a gray bun and a wrinkled grin (old woman) and a flat-top haircut and a deadpan look; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 77** · 5:33 · 4.7 s · motion: PAN RIGHT · overlay: `JIM CROW`
 ```
-A tall wall splitting a street, two doors on each side, characters walking into separate doors, serious mood. Big bold hand-drawn black letters reading "JIM CROW" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A tall wall splitting a street, two doors on each side, characters walking into separate doors, serious mood. Big bold hand-drawn black letters reading "JIM CROW" in a corner of the image. Looks (every character is different): main character with rosy cheeks and a bob haircut (plump woman); other characters with a pointed beard and a sly smirk and a side-parted hairstyle and wide eyes (young man); all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 78** · 5:38 · 4.7 s · motion: ZOOM OUT · overlay: `NEARLY A CENTURY`
 ```
-A calendar page showing a long strip of years with a big shadow growing over it. Big bold hand-drawn black letters reading "NEARLY A CENTURY" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A calendar page showing a long strip of years with a big shadow growing over it. Big bold hand-drawn black letters reading "NEARLY A CENTURY" in a corner of the image. Looks (every character is different): main character with a big nose and a tiny mustache; other characters with two braids and freckles (girl) and thick curly hair and a goofy grin; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 ## 5:43 — "For the first time, a war was fought with railroads, telegraphs, rifle…"
@@ -565,17 +565,17 @@ A calendar page showing a long strip of years with a big shadow growing over it.
 
 **Shot 79** · 5:43 · 4.5 s · motion: PAN LEFT · overlay: `FIRST MODERN WAR`
 ```
-A train, a telegraph pole, and a camera on a tripod, a character soldier next to them, drawn as simple doodles. Big bold hand-drawn black letters reading "FIRST MODERN WAR" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A train, a telegraph pole, and a camera on a tripod, a character soldier next to them, drawn as simple doodles. Big bold hand-drawn black letters reading "FIRST MODERN WAR" in a corner of the image. Looks (every character is different): main character with sunken eyes and a long thin mustache (gaunt man); other characters with a buzz cut and a calm expression (muscular man) and a headscarf and a kind, tired face (woman); all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 80** · 5:47 · 4.5 s · motion: POP-IN (elements appear one by one) · overlay: `SEEING THE HORRORS`
 ```
-Characters at home at a table looking at photos and letters, worried faces. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
+Characters at home at a table looking at photos and letters, worried faces. Looks (every character is different): main character with a round belly and a bushy ginger mustache; other characters with a tall thin build, a long nose and slicked-back black hair and a short stocky build, a bald head and a thick gray beard; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
 **Shot 81** · 5:52 · 4.5 s · motion: ZOOM IN · overlay: `THE UNION PRESERVED`
 ```
-A big blue flag with stars standing over a united map, characters holding hands. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
+A big blue flag with stars standing over a united map, characters holding hands. Looks (every character is different): main character with a young face with messy blond hair and freckles; other characters with an elderly look with white hair and round glasses and a strong build, a square jaw and short brown hair; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
 ## 5:56 — "After the war, the country transforms. In 1869, the transcontinental r…"
@@ -584,12 +584,12 @@ A big blue flag with stars standing over a united map, characters holding hands.
 
 **Shot 82** · 5:56 · 2.6 s · motion: PAN RIGHT · overlay: `1865 → 1900`
 ```
-A before-and-after picture: a quiet farm on the left, a busy city with factories on the right, a big arrow between them. Big bold hand-drawn black letters reading "1865 → 1900" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A before-and-after picture: a quiet farm on the left, a busy city with factories on the right, a big arrow between them. Big bold hand-drawn black letters reading "1865 → 1900" in a corner of the image. Looks (every character is different): main character with a tight bun, sharp eyebrows and a stern look (woman); other characters with a long braid and a gentle smile (woman) and curly hair and big round earrings (woman); all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 83** · 5:59 · 2.6 s · motion: ZOOM OUT · overlay: `1869`
 ```
-Two train lines meeting in the middle of a desert with a gold spike being hammered, characters cheering. Big bold hand-drawn black letters reading "1869" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+Two train lines meeting in the middle of a desert with a gold spike being hammered, characters cheering. Big bold hand-drawn black letters reading "1869" in a corner of the image. Looks (every character is different): main character with spiky hair and a nervous smile (teenager); other characters with a heavy build, a thick black mustache and a tired look and a skinny build, a goatee and sleepy half-closed eyes; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 ## 6:02 — "Electricity, the telephone, steel, and oil take off, driven by names l…"
@@ -598,12 +598,12 @@ Two train lines meeting in the middle of a desert with a gold spike being hammer
 
 **Shot 84** · 6:02 · 5.0 s · motion: PAN LEFT · overlay: `ELECTRICITY · TELEPHONE`
 ```
-A character inventor with a glowing light bulb over his head next to a phone. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
+A character inventor with a glowing light bulb over his head next to a phone. Looks (every character is different): main character with short wavy hair and a determined stare (woman); other characters with sideburns and a worried look (middle-aged man) and big eyes and a bowl-cut hairstyle (child); all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
 **Shot 85** · 6:07 · 5.0 s · motion: POP-IN (elements appear one by one) · overlay: `THE GILDED AGE`
 ```
-Big steel beams, an oil derrick, and a smoking factory, with a character in a fancy suit and top hat counting coins. Big bold hand-drawn black letters reading "THE GILDED AGE" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+Big steel beams, an oil derrick, and a smoking factory, with a character in a fancy suit and top hat counting coins. Big bold hand-drawn black letters reading "THE GILDED AGE" in a corner of the image. Looks (every character is different): main character with a bald head, huge eyebrows and a surprised face; other characters with a side ponytail and a smug smile (woman) and long wavy hair and a scruffy beard; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 ## 6:12 — "Cities boom, and millions of immigrants arrive from Europe through Ell…"
@@ -612,12 +612,12 @@ Big steel beams, an oil derrick, and a smoking factory, with a character in a fa
 
 **Shot 86** · 6:12 · 4.8 s · motion: ZOOM IN · overlay: `CITIES BOOM`
 ```
-A busy street of tall buildings and horse carts, huge crowds of characters walking to work. Big bold hand-drawn black letters reading "CITIES BOOM" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A busy street of tall buildings and horse carts, huge crowds of characters walking to work. Big bold hand-drawn black letters reading "CITIES BOOM" in a corner of the image. Looks (every character is different): main character with a high ponytail and a serious face (tall woman); other characters with a gray bun and a wrinkled grin (old woman) and a flat-top haircut and a deadpan look; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 87** · 6:16 · 4.8 s · motion: PAN RIGHT · overlay: `ELLIS ISLAND · 1886`
 ```
-A crowd of characters with suitcases on a ship looking up at a big green Statue of Liberty at sunrise. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
+A crowd of characters with suitcases on a ship looking up at a big green Statue of Liberty at sunrise. Looks (every character is different): main character with rosy cheeks and a bob haircut (plump woman); other characters with a pointed beard and a sly smirk and a side-parted hairstyle and wide eyes (young man); all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
 ## 6:21 — "And after the war with Spain in 1898, the U.S. gains Puerto Rico, Guam…"
@@ -626,12 +626,12 @@ A crowd of characters with suitcases on a ship looking up at a big green Statue 
 
 **Shot 88** · 6:21 · 5.8 s · motion: ZOOM OUT · overlay: `1898`
 ```
-A map with three islands lit up in yellow and a character planting a flag on each one. Big bold hand-drawn black letters reading "1898" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A map with three islands lit up in yellow and a character planting a flag on each one. Big bold hand-drawn black letters reading "1898" in a corner of the image. Looks (every character is different): main character with a big nose and a tiny mustache; other characters with two braids and freckles (girl) and thick curly hair and a goofy grin; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 89** · 6:27 · 5.8 s · motion: PAN LEFT
 ```
-A giant character in a blue suit stepping across the ocean onto the world map, small characters looking up. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
+A giant character in a blue suit stepping across the ocean onto the world map, small characters looking up. Looks (every character is different): main character with sunken eyes and a long thin mustache (gaunt man); other characters with a buzz cut and a calm expression (muscular man) and a headscarf and a kind, tired face (woman); all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
 ## 6:33 — "But the boom had a dark side: long hours, child labor, and dangerous f…"
@@ -640,17 +640,17 @@ A giant character in a blue suit stepping across the ocean onto the world map, s
 
 **Shot 90** · 6:33 · 4.3 s · motion: POP-IN (elements appear one by one) · overlay: `CHILD LABOR`
 ```
-A dark factory with small characters kids working at machines, smoke, gray colors, somber mood. Big bold hand-drawn black letters reading "CHILD LABOR" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A dark factory with small characters kids working at machines, smoke, gray colors, somber mood. Big bold hand-drawn black letters reading "CHILD LABOR" in a corner of the image. Looks (every character is different): main character with a round belly and a bushy ginger mustache; other characters with a tall thin build, a long nose and slicked-back black hair and a short stocky build, a bald head and a thick gray beard; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 91** · 6:37 · 4.3 s · motion: ZOOM IN · overlay: `UNIONS`
 ```
-A crowd of characters with blank signs standing in front of a factory gate, a few raising fists. Big bold hand-drawn black letters reading "UNIONS" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A crowd of characters with blank signs standing in front of a factory gate, a few raising fists. Big bold hand-drawn black letters reading "UNIONS" in a corner of the image. Looks (every character is different): main character with a young face with messy blond hair and freckles; other characters with an elderly look with white hair and round glasses and a strong build, a square jaw and short brown hair; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 92** · 6:41 · 4.3 s · motion: PAN RIGHT · overlay: `PROGRESSIVE ERA`
 ```
-A character judge with a gavel next to a big balance scale and a tiny rulebook, a big business character looking nervous. Big bold hand-drawn black letters reading "PROGRESSIVE ERA" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A character judge with a gavel next to a big balance scale and a tiny rulebook, a big business character looking nervous. Big bold hand-drawn black letters reading "PROGRESSIVE ERA" in a corner of the image. Looks (every character is different): main character with a tight bun, sharp eyebrows and a stern look (woman); other characters with a long braid and a gentle smile (woman) and curly hair and big round earrings (woman); all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 ## 6:46 — "The U.S. enters World War I in 1917, and its help tips the balance. Th…"
@@ -659,17 +659,17 @@ A character judge with a gavel next to a big balance scale and a tiny rulebook, 
 
 **Shot 93** · 6:46 · 4.1 s · motion: ZOOM OUT · overlay: `1917`
 ```
-Character soldiers marching onto a ship with a big flag, a clock showing 1917, serious faces. Big bold hand-drawn black letters reading "1917" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+Character soldiers marching onto a ship with a big flag, a clock showing 1917, serious faces. Big bold hand-drawn black letters reading "1917" in a corner of the image. Looks (every character is different): main character with spiky hair and a nervous smile (teenager); other characters with a heavy build, a thick black mustache and a tired look and a skinny build, a goatee and sleepy half-closed eyes; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 94** · 6:50 · 4.1 s · motion: PAN LEFT · overlay: `THE ROARING 20s`
 ```
-A party with characters dancing, a saxophone, balloons, and confetti, bright colors. Big bold hand-drawn black letters reading "THE ROARING 20s" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A party with characters dancing, a saxophone, balloons, and confetti, bright colors. Big bold hand-drawn black letters reading "THE ROARING 20s" in a corner of the image. Looks (every character is different): main character with short wavy hair and a determined stare (woman); other characters with sideburns and a worried look (middle-aged man) and big eyes and a bowl-cut hairstyle (child); all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 95** · 6:54 · 4.1 s · motion: POP-IN (elements appear one by one) · overlay: `OCTOBER 1929`
 ```
-A big red arrow crashing down on a chart, characters in suits grabbing their heads and throwing papers. Big bold hand-drawn black letters reading "OCTOBER 1929" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A big red arrow crashing down on a chart, characters in suits grabbing their heads and throwing papers. Big bold hand-drawn black letters reading "OCTOBER 1929" in a corner of the image. Looks (every character is different): main character with a bald head, huge eyebrows and a surprised face; other characters with a side ponytail and a smug smile (woman) and long wavy hair and a scruffy beard; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 ## 6:58 — "The Great Depression begins: a quarter of workers lose their jobs. Pre…"
@@ -678,12 +678,12 @@ A big red arrow crashing down on a chart, characters in suits grabbing their hea
 
 **Shot 96** · 6:58 · 5.6 s · motion: ZOOM IN · overlay: `1 IN 4 JOBLESS`
 ```
-A long line of sad characters in worn clothes holding empty bowls, rainy gray sky. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
+A long line of sad characters in worn clothes holding empty bowls, rainy gray sky. Looks (every character is different): main character with a high ponytail and a serious face (tall woman); other characters with a gray bun and a wrinkled grin (old woman) and a flat-top haircut and a deadpan look; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
 **Shot 97** · 7:04 · 5.6 s · motion: PAN RIGHT · overlay: `THE NEW DEAL`
 ```
-A character at a big desk with blueprints, workers behind him building a dam and a road, hopeful colors. Big bold hand-drawn black letters reading "THE NEW DEAL" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A character at a big desk with blueprints, workers behind him building a dam and a road, hopeful colors. Big bold hand-drawn black letters reading "THE NEW DEAL" in a corner of the image. Looks (every character is different): main character with rosy cheeks and a bob haircut (plump woman); other characters with a pointed beard and a sly smirk and a side-parted hairstyle and wide eyes (young man); all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 ## 7:09 — "On December 7th, 1941, Japan attacks Pearl Harbor, and the U.S. enters…"
@@ -692,17 +692,17 @@ A character at a big desk with blueprints, workers behind him building a dam and
 
 **Shot 98** · 7:09 · 4.1 s · motion: ZOOM OUT · overlay: `DEC 7, 1941`
 ```
-Small planes flying over a harbor with several warships, big red explosion clouds in cartoon style, no character harm. Big bold hand-drawn black letters reading "DEC 7, 1941" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+Small planes flying over a harbor with several warships, big red explosion clouds in cartoon style, no character harm. Big bold hand-drawn black letters reading "DEC 7, 1941" in a corner of the image. Looks (every character is different): main character with a big nose and a tiny mustache; other characters with two braids and freckles (girl) and thick curly hair and a goofy grin; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 99** · 7:13 · 4.1 s · motion: PAN LEFT · overlay: `ARSENAL OF DEMOCRACY`
 ```
-A giant factory with a long assembly line, character workers building planes, ships, and tanks at high speed. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
+A giant factory with a long assembly line, character workers building planes, ships, and tanks at high speed. Looks (every character is different): main character with sunken eyes and a long thin mustache (gaunt man); other characters with a buzz cut and a calm expression (muscular man) and a headscarf and a kind, tired face (woman); all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
 **Shot 100** · 7:17 · 4.1 s · motion: POP-IN (elements appear one by one)
 ```
-A character worker flexing her arm with a headscarf, a big wrench in her hand, behind her a line of tanks. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
+A character worker flexing her arm with a headscarf, a big wrench in her hand, behind her a line of tanks. Looks (every character is different): main character with a round belly and a bushy ginger mustache; other characters with a tall thin build, a long nose and slicked-back black hair and a short stocky build, a bald head and a thick gray beard; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
 ## 7:22 — "The war ends in 1945 after atomic bombs are dropped on Hiroshima and N…"
@@ -711,12 +711,12 @@ A character worker flexing her arm with a headscarf, a big wrench in her hand, b
 
 **Shot 101** · 7:22 · 5.8 s · motion: ZOOM IN · overlay: `1945`
 ```
-A big orange mushroom cloud far away over a flat landscape, small characters watching from a safe distance, gray sky. Big bold hand-drawn black letters reading "1945" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A big orange mushroom cloud far away over a flat landscape, small characters watching from a safe distance, gray sky. Big bold hand-drawn black letters reading "1945" in a corner of the image. Looks (every character is different): main character with a young face with messy blond hair and freckles; other characters with an elderly look with white hair and round glasses and a strong build, a square jaw and short brown hair; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 102** · 7:27 · 5.8 s · motion: PAN RIGHT · overlay: `SUPERPOWER`
 ```
-A giant character in a blue suit flexing his biceps on top of the world, a globe under his feet. Big bold hand-drawn black letters reading "SUPERPOWER" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A giant character in a blue suit flexing his biceps on top of the world, a globe under his feet. Big bold hand-drawn black letters reading "SUPERPOWER" in a corner of the image. Looks (every character is different): main character with a tight bun, sharp eyebrows and a stern look (woman); other characters with a long braid and a gentle smile (woman) and curly hair and big round earrings (woman); all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 ## 7:33 — "The New Deal gave the country Social Security, bank protections, and m…"
@@ -725,12 +725,12 @@ A giant character in a blue suit flexing his biceps on top of the world, a globe
 
 **Shot 103** · 7:33 · 4.8 s · motion: ZOOM OUT · overlay: `SOCIAL SECURITY`
 ```
-A character holding a card with a heart on it, a bank with a shield above it, a line of workers going to a new job. Big bold hand-drawn black letters reading "SOCIAL SECURITY" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A character holding a card with a heart on it, a bank with a shield above it, a line of workers going to a new job. Big bold hand-drawn black letters reading "SOCIAL SECURITY" in a corner of the image. Looks (every character is different): main character with spiky hair and a nervous smile (teenager); other characters with a heavy build, a thick black mustache and a tired look and a skinny build, a goatee and sleepy half-closed eyes; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 104** · 7:38 · 4.8 s · motion: PAN LEFT
 ```
-A character happily shaking hands with the government building, a tiny house, and a lunchbox. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
+A character happily shaking hands with the government building, a tiny house, and a lunchbox. Looks (every character is different): main character with short wavy hair and a determined stare (woman); other characters with sideburns and a worried look (middle-aged man) and big eyes and a bowl-cut hairstyle (child); all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
 ## 7:43 — "The Cold War begins: a decades-long standoff with the Soviet Union. Th…"
@@ -739,22 +739,22 @@ A character happily shaking hands with the government building, a tiny house, an
 
 **Shot 105** · 7:43 · 4.6 s · motion: POP-IN (elements appear one by one) · overlay: `COLD WAR`
 ```
-Two characters facing each other across a tall wall, one in blue and one in red, each with a missile behind him. Big bold hand-drawn black letters reading "COLD WAR" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+Two characters facing each other across a tall wall, one in blue and one in red, each with a missile behind him. Big bold hand-drawn black letters reading "COLD WAR" in a corner of the image. Looks (every character is different): main character with a bald head, huge eyebrows and a surprised face; other characters with a side ponytail and a smug smile (woman) and long wavy hair and a scruffy beard; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 106** · 7:47 · 4.6 s · motion: ZOOM IN · overlay: `KOREA · VIETNAM`
 ```
-A jungle with a helicopter and character soldiers, cartoon style, muted colors, no blood. Big bold hand-drawn black letters reading "KOREA · VIETNAM" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A jungle with a helicopter and character soldiers, cartoon style, muted colors, no blood. Big bold hand-drawn black letters reading "KOREA · VIETNAM" in a corner of the image. Looks (every character is different): main character with a high ponytail and a serious face (tall woman); other characters with a gray bun and a wrinkled grin (old woman) and a flat-top haircut and a deadpan look; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 107** · 7:52 · 4.6 s · motion: PAN RIGHT · overlay: `CUBAN MISSILE CRISIS`
 ```
-A big red button and two missiles pointed at each other, two nervous characters sweating. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
+A big red button and two missiles pointed at each other, two nervous characters sweating. Looks (every character is different): main character with rosy cheeks and a bob haircut (plump woman); other characters with a pointed beard and a sly smirk and a side-parted hairstyle and wide eyes (young man); all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
 **Shot 108** · 7:57 · 4.6 s · motion: ZOOM OUT · overlay: `1969`
 ```
-A character astronaut planting a flag on the Moon with the Earth in the sky. Big bold hand-drawn black letters reading "1969" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A character astronaut planting a flag on the Moon with the Earth in the sky. Big bold hand-drawn black letters reading "1969" in a corner of the image. Looks (every character is different): main character with a big nose and a tiny mustache; other characters with two braids and freckles (girl) and thick curly hair and a goofy grin; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 ## 8:01 — "At home, the Civil Rights Movement erupts. Rosa Parks, Martin Luther K…"
@@ -763,17 +763,17 @@ A character astronaut planting a flag on the Moon with the Earth in the sky. Big
 
 **Shot 109** · 8:01 · 5.1 s · motion: PAN LEFT · overlay: `CIVIL RIGHTS`
 ```
-A crowd of characters of different colors marching peacefully together holding blank signs, a hopeful sunrise. Big bold hand-drawn black letters reading "CIVIL RIGHTS" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A crowd of characters of different colors marching peacefully together holding blank signs, a hopeful sunrise. Big bold hand-drawn black letters reading "CIVIL RIGHTS" in a corner of the image. Looks (every character is different): main character with sunken eyes and a long thin mustache (gaunt man); other characters with a buzz cut and a calm expression (muscular man) and a headscarf and a kind, tired face (woman); all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 110** · 8:06 · 5.1 s · motion: POP-IN (elements appear one by one) · overlay: `SIT-INS`
 ```
-Characters sitting at a lunch counter calmly while others stand behind them, a clock on the wall, dignified mood. Big bold hand-drawn black letters reading "SIT-INS" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+Characters sitting at a lunch counter calmly while others stand behind them, a clock on the wall, dignified mood. Big bold hand-drawn black letters reading "SIT-INS" in a corner of the image. Looks (every character is different): main character with a round belly and a bushy ginger mustache; other characters with a tall thin build, a long nose and slicked-back black hair and a short stocky build, a bald head and a thick gray beard; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 111** · 8:11 · 5.1 s · motion: ZOOM IN · overlay: `1964 · 1965`
 ```
-A character at a desk signing a big paper while characters of every color cheer behind him. Big bold hand-drawn black letters reading "1964 · 1965" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A character at a desk signing a big paper while characters of every color cheer behind him. Big bold hand-drawn black letters reading "1964 · 1965" in a corner of the image. Looks (every character is different): main character with a young face with messy blond hair and freckles; other characters with an elderly look with white hair and round glasses and a strong build, a square jaw and short brown hair; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 ## 8:16 — "The 1970s bring the Watergate scandal, which forces Richard Nixon to r…"
@@ -782,17 +782,17 @@ A character at a desk signing a big paper while characters of every color cheer 
 
 **Shot 112** · 8:16 · 5.9 s · motion: PAN RIGHT · overlay: `WATERGATE`
 ```
-A character in a trench coat leaving a building holding a scandalous envelope, a magnifier glass and a camera aimed at him. Big bold hand-drawn black letters reading "WATERGATE" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A character in a trench coat leaving a building holding a scandalous envelope, a magnifier glass and a camera aimed at him. Big bold hand-drawn black letters reading "WATERGATE" in a corner of the image. Looks (every character is different): main character with a tight bun, sharp eyebrows and a stern look (woman); other characters with a long braid and a gentle smile (woman) and curly hair and big round earrings (woman); all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 113** · 8:22 · 5.9 s · motion: ZOOM OUT · overlay: `1980s`
 ```
-A character in a cowboy hat cutting a big tax bill in half with scissors, tiny characters cheering. Big bold hand-drawn black letters reading "1980s" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A character in a cowboy hat cutting a big tax bill in half with scissors, tiny characters cheering. Big bold hand-drawn black letters reading "1980s" in a corner of the image. Looks (every character is different): main character with spiky hair and a nervous smile (teenager); other characters with a heavy build, a thick black mustache and a tired look and a skinny build, a goatee and sleepy half-closed eyes; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 114** · 8:28 · 5.9 s · motion: PAN LEFT · overlay: `1991`
 ```
-A red flag falling from a tall tower while a blue flag rises, characters watching quietly. Big bold hand-drawn black letters reading "1991" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A red flag falling from a tall tower while a blue flag rises, characters watching quietly. Big bold hand-drawn black letters reading "1991" in a corner of the image. Looks (every character is different): main character with short wavy hair and a determined stare (woman); other characters with sideburns and a worried look (middle-aged man) and big eyes and a bowl-cut hairstyle (child); all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 ## 8:34 — "Meanwhile, the post-war boom built suburbs, highways, and a huge middl…"
@@ -801,12 +801,12 @@ A red flag falling from a tall tower while a blue flag rises, characters watchin
 
 **Shot 115** · 8:34 · 5.0 s · motion: POP-IN (elements appear one by one) · overlay: `SUBURBS`
 ```
-A suburb with identical small houses, a car in each driveway, a highway behind, happy character family on a lawn. Big bold hand-drawn black letters reading "SUBURBS" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A suburb with identical small houses, a car in each driveway, a highway behind, happy character family on a lawn. Big bold hand-drawn black letters reading "SUBURBS" in a corner of the image. Looks (every character is different): main character with a bald head, huge eyebrows and a surprised face; other characters with a side ponytail and a smug smile (woman) and long wavy hair and a scruffy beard; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 116** · 8:39 · 5.0 s · motion: ZOOM IN · overlay: `TV · ROCK · HOLLYWOOD`
 ```
-A character family on a couch watching a TV, a guitar player, and a movie camera with a star. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
+A character family on a couch watching a TV, a guitar player, and a movie camera with a star. Looks (every character is different): main character with a high ponytail and a serious face (tall woman); other characters with a gray bun and a wrinkled grin (old woman) and a flat-top haircut and a deadpan look; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
 ## 8:44 — "The internet and Silicon Valley supercharge the economy in the 1990s. …"
@@ -815,17 +815,17 @@ A character family on a couch watching a TV, a guitar player, and a movie camera
 
 **Shot 117** · 8:44 · 4.4 s · motion: PAN RIGHT · overlay: `THE INTERNET`
 ```
-A character at a glowing laptop, lines connecting to a globe, small tech buildings in the background, blue colors. Big bold hand-drawn black letters reading "THE INTERNET" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A character at a glowing laptop, lines connecting to a globe, small tech buildings in the background, blue colors. Big bold hand-drawn black letters reading "THE INTERNET" in a corner of the image. Looks (every character is different): main character with rosy cheeks and a bob haircut (plump woman); other characters with a pointed beard and a sly smirk and a side-parted hairstyle and wide eyes (young man); all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 118** · 8:48 · 4.4 s · motion: ZOOM OUT · overlay: `SEPT 11, 2001`
 ```
-Two tall gray towers with a flag at half-staff, characters standing quietly with candles, respectful and somber mood. Big bold hand-drawn black letters reading "SEPT 11, 2001" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+Two tall gray towers with a flag at half-staff, characters standing quietly with candles, respectful and somber mood. Big bold hand-drawn black letters reading "SEPT 11, 2001" in a corner of the image. Looks (every character is different): main character with a big nose and a tiny mustache; other characters with two braids and freckles (girl) and thick curly hair and a goofy grin; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 119** · 8:53 · 4.4 s · motion: PAN LEFT · overlay: `AFGHANISTAN · IRAQ`
 ```
-Character soldiers walking across a desert with a distant mountain range, muted colors, no blood. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
+Character soldiers walking across a desert with a distant mountain range, muted colors, no blood. Looks (every character is different): main character with sunken eyes and a long thin mustache (gaunt man); other characters with a buzz cut and a calm expression (muscular man) and a headscarf and a kind, tired face (woman); all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
 ## 8:57 — "In 2008, a global financial crisis rocks the economy, and Barack Obama…"
@@ -834,12 +834,12 @@ Character soldiers walking across a desert with a distant mountain range, muted 
 
 **Shot 120** · 8:57 · 3.6 s · motion: POP-IN (elements appear one by one) · overlay: `2008`
 ```
-A big falling red arrow on a chart, a bank with its door closed, characters with worried faces on the street. Big bold hand-drawn black letters reading "2008" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A big falling red arrow on a chart, a bank with its door closed, characters with worried faces on the street. Big bold hand-drawn black letters reading "2008" in a corner of the image. Looks (every character is different): main character with a round belly and a bushy ginger mustache; other characters with a tall thin build, a long nose and slicked-back black hair and a short stocky build, a bald head and a thick gray beard; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 121** · 9:01 · 3.6 s · motion: ZOOM IN · overlay: `FIRST BLACK PRESIDENT`
 ```
-A character at a podium in front of a big flag with a crowd cheering below him, hopeful sunrise. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
+A character at a podium in front of a big flag with a crowd cheering below him, hopeful sunrise. Looks (every character is different): main character with a young face with messy blond hair and freckles; other characters with an elderly look with white hair and round glasses and a strong build, a square jaw and short brown hair; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
 ## 9:04 — "Then come Donald Trump's first term in 2017, Joe Biden in 2021, and th…"
@@ -848,17 +848,17 @@ A character at a podium in front of a big flag with a crowd cheering below him, 
 
 **Shot 122** · 9:04 · 4.8 s · motion: PAN RIGHT · overlay: `2017 · 2021`
 ```
-Two characters in suits shaking hands, one with a red tie and one with a blue tie, a tiny white domed building behind them. Big bold hand-drawn black letters reading "2017 · 2021" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+Two characters in suits shaking hands, one with a red tie and one with a blue tie, a tiny white domed building behind them. Big bold hand-drawn black letters reading "2017 · 2021" in a corner of the image. Looks (every character is different): main character with a tight bun, sharp eyebrows and a stern look (woman); other characters with a long braid and a gentle smile (woman) and curly hair and big round earrings (woman); all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 123** · 9:09 · 4.8 s · motion: ZOOM OUT · overlay: `COVID-19`
 ```
-A character in a mask alone on an empty street, round virus shapes floating, closed shops. Big bold hand-drawn black letters reading "COVID-19" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A character in a mask alone on an empty street, round virus shapes floating, closed shops. Big bold hand-drawn black letters reading "COVID-19" in a corner of the image. Looks (every character is different): main character with spiky hair and a nervous smile (teenager); other characters with a heavy build, a thick black mustache and a tired look and a skinny build, a goatee and sleepy half-closed eyes; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 124** · 9:14 · 4.8 s · motion: PAN LEFT · overlay: `2025`
 ```
-A big white domed government building at sunrise with a doorway opening and a character in a suit walking in. Big bold hand-drawn black letters reading "2025" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A big white domed government building at sunrise with a doorway opening and a character in a suit walking in. Big bold hand-drawn black letters reading "2025" in a corner of the image. Looks (every character is different): main character with short wavy hair and a determined stare (woman); other characters with sideburns and a worried look (middle-aged man) and big eyes and a bowl-cut hairstyle (child); all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 ## 9:19 — "Today, the country faces deep political polarization, fierce debates o…"
@@ -867,12 +867,12 @@ A big white domed government building at sunrise with a doorway opening and a ch
 
 **Shot 125** · 9:19 · 4.0 s · motion: POP-IN (elements appear one by one) · overlay: `POLARIZATION`
 ```
-Two groups of characters facing each other on a split background, red group and blue group, angry faces. Big bold hand-drawn black letters reading "POLARIZATION" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+Two groups of characters facing each other on a split background, red group and blue group, angry faces. Big bold hand-drawn black letters reading "POLARIZATION" in a corner of the image. Looks (every character is different): main character with a bald head, huge eyebrows and a surprised face; other characters with a side ponytail and a smug smile (woman) and long wavy hair and a scruffy beard; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 126** · 9:23 · 4.0 s · motion: ZOOM IN · overlay: `IMMIGRATION · TARIFFS · AI · CHINA`
 ```
-A table with small icons: a border fence, a cargo ship with a tag, a robot head, and a globe with a dragon sticker. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
+A table with small icons: a border fence, a cargo ship with a tag, a robot head, and a globe with a dragon sticker. Looks (every character is different): main character with a high ponytail and a serious face (tall woman); other characters with a gray bun and a wrinkled grin (old woman) and a flat-top haircut and a deadpan look; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
 ## 9:27 — "Smartphones, social media, and now artificial intelligence are reshapi…"
@@ -881,12 +881,12 @@ A table with small icons: a border fence, a cargo ship with a tag, a robot head,
 
 **Shot 127** · 9:27 · 5.0 s · motion: PAN RIGHT · overlay: `SOCIAL MEDIA`
 ```
-A crowd of characters staring at glowing smartphones, thumbs up and thumbs down icons floating around them. Big bold hand-drawn black letters reading "SOCIAL MEDIA" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A crowd of characters staring at glowing smartphones, thumbs up and thumbs down icons floating around them. Big bold hand-drawn black letters reading "SOCIAL MEDIA" in a corner of the image. Looks (every character is different): main character with rosy cheeks and a bob haircut (plump woman); other characters with a pointed beard and a sly smirk and a side-parted hairstyle and wide eyes (young man); all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 128** · 9:32 · 5.0 s · motion: ZOOM OUT
 ```
-A friendly robot head next to a character at a desk, both looking at a giant globe with a big eye watching. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
+A friendly robot head next to a character at a desk, both looking at a giant globe with a big eye watching. Looks (every character is different): main character with a big nose and a tiny mustache; other characters with two braids and freckles (girl) and thick curly hair and a goofy grin; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
 ## 9:37 — "From colonies to superpower, with light and shadow: ideals of liberty …"
@@ -895,12 +895,12 @@ A friendly robot head next to a character at a desk, both looking at a giant glo
 
 **Shot 129** · 9:37 · 3.6 s · motion: PAN LEFT · overlay: `LIGHT AND SHADOW`
 ```
-A split picture: on the left a bright sunny scene with a flag and fireworks, on the right a dark gray scene with a chain, a character in the middle looking at both. Big bold hand-drawn black letters reading "LIGHT AND SHADOW" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A split picture: on the left a bright sunny scene with a flag and fireworks, on the right a dark gray scene with a chain, a character in the middle looking at both. Big bold hand-drawn black letters reading "LIGHT AND SHADOW" in a corner of the image. Looks (every character is different): main character with sunken eyes and a long thin mustache (gaunt man); other characters with a buzz cut and a calm expression (muscular man) and a headscarf and a kind, tired face (woman); all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 130** · 9:40 · 3.6 s · motion: POP-IN (elements appear one by one)
 ```
-A superhero-sized character standing on a pile of coins and chains, looking thoughtful. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
+A superhero-sized character standing on a pile of coins and chains, looking thoughtful. Looks (every character is different): main character with a round belly and a bushy ginger mustache; other characters with a tall thin build, a long nose and slicked-back black hair and a short stocky build, a bald head and a thick gray beard; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
 ## 9:44 — "The story of the United States is still being written, and 2026 is jus…"
@@ -909,12 +909,12 @@ A superhero-sized character standing on a pile of coins and chains, looking thou
 
 **Shot 131** · 9:44 · 3.4 s · motion: ZOOM IN · overlay: `2026`
 ```
-A giant open book with a character writing the next page with a pen, many pages already filled behind him. Big bold hand-drawn black letters reading "2026" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A giant open book with a character writing the next page with a pen, many pages already filled behind him. Big bold hand-drawn black letters reading "2026" in a corner of the image. Looks (every character is different): main character with a young face with messy blond hair and freckles; other characters with an elderly look with white hair and round glasses and a strong build, a square jaw and short brown hair; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 132** · 9:47 · 3.4 s · motion: PAN RIGHT · overlay: `THE NEXT CHAPTER`
 ```
-A road with small icons from the whole story, a character walking toward a glowing sunrise on the horizon. Big bold hand-drawn black letters reading "THE NEXT CHAPTER" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A road with small icons from the whole story, a character walking toward a glowing sunrise on the horizon. Big bold hand-drawn black letters reading "THE NEXT CHAPTER" in a corner of the image. Looks (every character is different): main character with a tight bun, sharp eyebrows and a stern look (woman); other characters with a long braid and a gentle smile (woman) and curly hair and big round earrings (woman); all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 ## 9:51 — "If you enjoyed this, subscribe, and tell me in the comments: which cou…"
@@ -923,12 +923,12 @@ A road with small icons from the whole story, a character walking toward a glowi
 
 **Shot 133** · 9:51 · 3.4 s · motion: ZOOM OUT · overlay: `SUBSCRIBE`
 ```
-A character pointing at a big red subscribe button and a bell icon, small hearts floating. Big bold hand-drawn black letters reading "SUBSCRIBE" in a corner of the image. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
+A character pointing at a big red subscribe button and a bell icon, small hearts floating. Big bold hand-drawn black letters reading "SUBSCRIBE" in a corner of the image. Looks (every character is different): main character with spiky hair and a nervous smile (teenager); other characters with a heavy build, a thick black mustache and a tired look and a skinny build, a goatee and sleepy half-closed eyes; all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
 **Shot 134** · 9:54 · 3.4 s · motion: PAN LEFT · overlay: `WHICH COUNTRY NEXT?`
 ```
-A speech bubble with a question mark and a character holding a globe with several countries highlighted. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
+A speech bubble with a question mark and a character holding a globe with several countries highlighted. Looks (every character is different): main character with short wavy hair and a determined stare (woman); other characters with sideburns and a worried look (middle-aged man) and big eyes and a bowl-cut hairstyle (child); all dressed in clothes that fit the era. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
 ---
