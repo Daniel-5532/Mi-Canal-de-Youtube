@@ -1,6 +1,6 @@
 # Script: The ENTIRE History of the United States in 10 Minutes (1492 – 2026)
 
-**Target length:** 10:00 | **Narration:** 1494 words at 150 words/min = 10.0 min
+**Target length:** 10:00 | **Narration:** 1507 words at 150 words/min = 10.0 min
 `[VISUAL]` notes are editing suggestions. Timestamps assume a steady 150 wpm.
 
 ---
@@ -22,7 +22,7 @@ This is the story of the United States: wars, revolutions, slavery, inventions, 
 
 ---
 
-## 1. BEFORE THE SETTLERS (0:27–1:34)
+## 1. BEFORE THE SETTLERS (0:27–1:33)
 
 [VISUAL: map of Native nations; Columbus's ships; Mayflower]
 
@@ -36,7 +36,7 @@ Other European powers were here too: the French along the St. Lawrence and the M
 
 ---
 
-## 2. THE THIRTEEN COLONIES AND SLAVERY (1:34–2:24)
+## 2. THE THIRTEEN COLONIES AND SLAVERY (1:33–2:23)
 
 [VISUAL: map of the 13 colonies; slave ship; plantations]
 
@@ -50,7 +50,7 @@ Meanwhile, ideas were growing too. Colonial assemblies, town meetings, and print
 
 ---
 
-## 3. INDEPENDENCE (2:24–3:44)
+## 3. INDEPENDENCE (2:23–3:42)
 
 [VISUAL: Boston Tea Party, Declaration of Independence, Washington crossing the Delaware]
 
@@ -66,7 +66,7 @@ Think about how improbable it was: thirteen small colonies, with no real army an
 
 ---
 
-## 4. WESTWARD EXPANSION (3:44–4:52)
+## 4. WESTWARD EXPANSION (3:42–4:50)
 
 [VISUAL: animated map of the territory growing; wagon trains; Lewis and Clark]
 
@@ -82,7 +82,7 @@ Steamboats, canals, and then railroads shrink the distances. Pioneers follow tra
 
 ---
 
-## 5. THE CIVIL WAR (4:52–5:58)
+## 5. THE CIVIL WAR (4:50–5:55)
 
 [VISUAL: Lincoln, Gettysburg, North vs. South map]
 
@@ -96,7 +96,7 @@ For the first time, a war was fought with railroads, telegraphs, rifled guns, an
 
 ---
 
-## 6. INDUSTRY AND RISING POWER (5:58–6:47)
+## 6. INDUSTRY AND RISING POWER (5:55–6:44)
 
 [VISUAL: transcontinental railroad, Ellis Island, Statue of Liberty, Edison, Rockefeller]
 
@@ -110,7 +110,7 @@ But the boom had a dark side: long hours, child labor, and dangerous factories. 
 
 ---
 
-## 7. WORLD WARS AND THE DEPRESSION (6:47–7:45)
+## 7. WORLD WARS AND THE DEPRESSION (6:44–7:46)
 
 [VISUAL: soldiers in 1917, Wall Street 1929, unemployment lines, Pearl Harbor, Hiroshima]
 
@@ -118,7 +118,7 @@ The U.S. enters World War I in 1917, and its help tips the balance. The 1920s ar
 
 The Great Depression begins: a quarter of workers lose their jobs. President Franklin D. Roosevelt responds with the New Deal, a massive package of reforms and public works.
 
-On December 7th, 1941, Japan attacks Pearl Harbor, and the U.S. enters World War II. Its factories become 'the arsenal of democracy,' producing planes, ships, and tanks at a staggering pace. The war ends in 1945 after atomic bombs are dropped on Hiroshima and Nagasaki.
+On December 7th, 1941, Japan attacks Pearl Harbor, and the U.S. enters World War II. Its factories become 'the arsenal of democracy,' producing planes, ships, and tanks at a staggering pace, with millions of women taking the jobs of the men sent to war. The war ends in 1945 after atomic bombs are dropped on Hiroshima and Nagasaki.
 
 And the United States emerges as the greatest economic and military power on the planet.
 
@@ -126,7 +126,7 @@ The New Deal gave the country Social Security, bank protections, and millions of
 
 ---
 
-## 8. COLD WAR AND CIVIL RIGHTS (7:45–8:46)
+## 8. COLD WAR AND CIVIL RIGHTS (7:46–8:47)
 
 [VISUAL: missiles, Moon landing, Martin Luther King Jr., Rosa Parks]
 
@@ -140,7 +140,7 @@ Meanwhile, the post-war boom built suburbs, highways, and a huge middle class, a
 
 ---
 
-## 9. THE 21ST CENTURY (8:46–9:39)
+## 9. THE 21ST CENTURY (8:47–9:39)
 
 [VISUAL: Silicon Valley, 9/11, Obama, pandemic, current headlines]
 

@@ -688,245 +688,245 @@ A character sitting indoors at a big wooden desk with blueprints inside a closed
 
 ## 7:09 — "On December 7th, 1941, Japan attacks Pearl Harbor, and the U.S. enters…"
 
-*Narration:* On December 7th, 1941, Japan attacks Pearl Harbor, and the U.S. enters World War II. Its factories become 'the arsenal of democracy,' producing planes, ships, and tanks at a staggering pace.
+*Narration:* On December 7th, 1941, Japan attacks Pearl Harbor, and the U.S. enters World War II. Its factories become 'the arsenal of democracy,' producing planes, ships, and tanks at a staggering pace, with millions of women taking the jobs of the men sent to war.
 
-**Shot 98** · 7:09 · 4.1 s · motion: ZOOM OUT · overlay: `DEC 7, 1941`
+**Shot 98** · 7:09 · 5.9 s · motion: ZOOM OUT · overlay: `DEC 7, 1941`
 ```
 Small planes flying over a harbor with several badly damaged warships: hulls tilted and listing to one side, large holes and black burn marks in the metal, broken masts and twisted metal, thick black smoke pouring from the decks, one ship half sunk with only its top above the water, big red explosion clouds in cartoon style, no character harm. Big bold hand-drawn black letters reading "DEC 7, 1941" in a corner of the image. Only these characters appear: only planes and ships; no people. Clothes and hairstyles must be accurate for the place and time of the scene, no modern clothes unless the scene is modern, no glasses unless stated, no extra people. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
-**Shot 99** · 7:13 · 4.1 s · motion: PAN LEFT · overlay: `ARSENAL OF DEMOCRACY`
+**Shot 99** · 7:15 · 5.9 s · motion: PAN LEFT · overlay: `ARSENAL OF DEMOCRACY`
 ```
 A giant factory with a long assembly line, character workers building planes, ships, and tanks at high speed. Only these characters appear: factory workers: men in overalls and women in polka-dot headscarves. Clothes and hairstyles must be accurate for the place and time of the scene, no modern clothes unless the scene is modern, no glasses unless stated, no extra people. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
-**Shot 100** · 7:17 · 4.1 s · motion: POP-IN (elements appear one by one)
+**Shot 100** · 7:21 · 5.9 s · motion: POP-IN (elements appear one by one)
 ```
 A character worker flexing her arm with a headscarf, a big wrench in her hand, behind her a line of tanks. Only these characters appear: one woman in a polka-dot headscarf with rolled sleeves flexing her arm with a wrench. Clothes and hairstyles must be accurate for the place and time of the scene, no modern clothes unless the scene is modern, no glasses unless stated, no extra people. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
-## 7:22 — "The war ends in 1945 after atomic bombs are dropped on Hiroshima and N…"
+## 7:27 — "The war ends in 1945 after atomic bombs are dropped on Hiroshima and N…"
 
 *Narration:* The war ends in 1945 after atomic bombs are dropped on Hiroshima and Nagasaki. And the United States emerges as the greatest economic and military power on the planet.
 
-**Shot 101** · 7:22 · 5.8 s · motion: ZOOM IN · overlay: `1945`
+**Shot 101** · 7:27 · 5.8 s · motion: ZOOM IN · overlay: `1945`
 ```
 A big orange mushroom cloud far away over a flat landscape, small characters watching from a safe distance, gray sky. Big bold hand-drawn black letters reading "1945" in a corner of the image. Only these characters appear: tiny people: men in 1940s uniforms and civilians watching from far away. Clothes and hairstyles must be accurate for the place and time of the scene, no modern clothes unless the scene is modern, no glasses unless stated, no extra people. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
-**Shot 102** · 7:27 · 5.8 s · motion: PAN RIGHT · overlay: `SUPERPOWER`
+**Shot 102** · 7:33 · 5.8 s · motion: PAN RIGHT · overlay: `SUPERPOWER`
 ```
 A giant character in a blue suit flexing his biceps on top of the world, a globe under his feet. Big bold hand-drawn black letters reading "SUPERPOWER" in a corner of the image. Only these characters appear: a giant man in a blue suit flexing his arms. Clothes and hairstyles must be accurate for the place and time of the scene, no modern clothes unless the scene is modern, no glasses unless stated, no extra people. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
-## 7:33 — "The New Deal gave the country Social Security, bank protections, and m…"
+## 7:38 — "The New Deal gave the country Social Security, bank protections, and m…"
 
 *Narration:* The New Deal gave the country Social Security, bank protections, and millions of jobs, and it permanently changed what Americans expected from their government.
 
-**Shot 103** · 7:33 · 4.8 s · motion: ZOOM OUT · overlay: `SOCIAL SECURITY`
+**Shot 103** · 7:38 · 4.8 s · motion: ZOOM OUT · overlay: `SOCIAL SECURITY`
 ```
 A character holding a card with a heart on it, a bank with a shield above it, a line of workers going to a new job. Big bold hand-drawn black letters reading "SOCIAL SECURITY" in a corner of the image. Only these characters appear: an elderly man holding a card, a worker man in a cap, and a woman in a 1930s dress. Clothes and hairstyles must be accurate for the place and time of the scene, no modern clothes unless the scene is modern, no glasses unless stated, no extra people. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
-**Shot 104** · 7:38 · 4.8 s · motion: PAN LEFT
+**Shot 104** · 7:43 · 4.8 s · motion: PAN LEFT
 ```
 A character happily shaking hands with the government building, a tiny house, and a lunchbox. Only these characters appear: one man in a gray suit shaking hands with the building. Clothes and hairstyles must be accurate for the place and time of the scene, no modern clothes unless the scene is modern, no glasses unless stated, no extra people. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
-## 7:43 — "The Cold War begins: a decades-long standoff with the Soviet Union. Th…"
+## 7:48 — "The Cold War begins: a decades-long standoff with the Soviet Union. Th…"
 
 *Narration:* The Cold War begins: a decades-long standoff with the Soviet Union. There was no direct war between the two, but there were conflicts like Korea and Vietnam, the Cuban Missile Crisis, and the Space Race, which peaks when Neil Armstrong walks on the Moon in 1969.
 
-**Shot 105** · 7:43 · 4.6 s · motion: POP-IN (elements appear one by one) · overlay: `COLD WAR`
+**Shot 105** · 7:48 · 4.6 s · motion: POP-IN (elements appear one by one) · overlay: `COLD WAR`
 ```
 Two characters facing each other across a tall wall, one in blue and one in red, each with a missile behind him. Big bold hand-drawn black letters reading "COLD WAR" in a corner of the image. Only these characters appear: one man in a blue suit with a star badge and one man in a gray coat and a fur hat with a red badge; both men, no women. Clothes and hairstyles must be accurate for the place and time of the scene, no modern clothes unless the scene is modern, no glasses unless stated, no extra people. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
-**Shot 106** · 7:47 · 4.6 s · motion: ZOOM IN · overlay: `KOREA · VIETNAM`
+**Shot 106** · 7:53 · 4.6 s · motion: ZOOM IN · overlay: `KOREA · VIETNAM`
 ```
 A jungle with a helicopter and character soldiers, cartoon style, muted colors, no blood. Big bold hand-drawn black letters reading "KOREA · VIETNAM" in a corner of the image. Only these characters appear: American soldiers, all men, in green uniforms and helmets in a jungle; no women, no blood. Clothes and hairstyles must be accurate for the place and time of the scene, no modern clothes unless the scene is modern, no glasses unless stated, no extra people. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
-**Shot 107** · 7:52 · 4.6 s · motion: PAN RIGHT · overlay: `CUBAN MISSILE CRISIS`
+**Shot 107** · 7:57 · 4.6 s · motion: PAN RIGHT · overlay: `CUBAN MISSILE CRISIS`
 ```
 A big red button and two missiles pointed at each other, two nervous characters sweating. Only these characters appear: two nervous men in suits at a table; no women. Clothes and hairstyles must be accurate for the place and time of the scene, no modern clothes unless the scene is modern, no glasses unless stated, no extra people. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
-**Shot 108** · 7:57 · 4.6 s · motion: ZOOM OUT · overlay: `1969`
+**Shot 108** · 8:02 · 4.6 s · motion: ZOOM OUT · overlay: `1969`
 ```
 A character astronaut planting a flag on the Moon with the Earth in the sky. Big bold hand-drawn black letters reading "1969" in a corner of the image. Only these characters appear: one astronaut in a white spacesuit and round helmet; no women. Clothes and hairstyles must be accurate for the place and time of the scene, no modern clothes unless the scene is modern, no glasses unless stated, no extra people. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
-## 8:01 — "At home, the Civil Rights Movement erupts. Rosa Parks, Martin Luther K…"
+## 8:06 — "At home, the Civil Rights Movement erupts. Rosa Parks, Martin Luther K…"
 
 *Narration:* At home, the Civil Rights Movement erupts. Rosa Parks, Martin Luther King Jr., and thousands of others fight segregation with boycotts, marches, and sit-ins, winning the Civil Rights Act of 1964 and the Voting Rights Act of 1965.
 
-**Shot 109** · 8:01 · 5.1 s · motion: PAN LEFT · overlay: `CIVIL RIGHTS`
+**Shot 109** · 8:06 · 5.1 s · motion: PAN LEFT · overlay: `CIVIL RIGHTS`
 ```
 A crowd of characters of different colors marching peacefully together holding blank signs, a hopeful sunrise. Big bold hand-drawn black letters reading "CIVIL RIGHTS" in a corner of the image. Only these characters appear: a mixed crowd of men and women in 1960s clothes marching with blank signs. Clothes and hairstyles must be accurate for the place and time of the scene, no modern clothes unless the scene is modern, no glasses unless stated, no extra people. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
-**Shot 110** · 8:06 · 5.1 s · motion: POP-IN (elements appear one by one) · overlay: `SIT-INS`
+**Shot 110** · 8:11 · 5.1 s · motion: POP-IN (elements appear one by one) · overlay: `SIT-INS`
 ```
 Characters sitting at a lunch counter calmly while others stand behind them, a clock on the wall, dignified mood. Big bold hand-drawn black letters reading "SIT-INS" in a corner of the image. Only these characters appear: calm young men and women in 1960s clothes sitting at a lunch counter. Clothes and hairstyles must be accurate for the place and time of the scene, no modern clothes unless the scene is modern, no glasses unless stated, no extra people. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
-**Shot 111** · 8:11 · 5.1 s · motion: ZOOM IN · overlay: `1964 · 1965`
+**Shot 111** · 8:17 · 5.1 s · motion: ZOOM IN · overlay: `1964 · 1965`
 ```
 A character at a desk signing a big paper while characters of every color cheer behind him. Big bold hand-drawn black letters reading "1964 · 1965" in a corner of the image. Only these characters appear: one man in a dark suit signing a paper, and a mixed crowd of men and women in 1960s clothes cheering. Clothes and hairstyles must be accurate for the place and time of the scene, no modern clothes unless the scene is modern, no glasses unless stated, no extra people. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
-## 8:16 — "The 1970s bring the Watergate scandal, which forces Richard Nixon to r…"
+## 8:22 — "The 1970s bring the Watergate scandal, which forces Richard Nixon to r…"
 
 *Narration:* The 1970s bring the Watergate scandal, which forces Richard Nixon to resign, and oil crises. In the 1980s, Ronald Reagan pushes tax cuts and a hard line against Moscow. And in 1991, the Soviet Union dissolves, leaving the U.S. as the world's only superpower.
 
-**Shot 112** · 8:16 · 5.9 s · motion: PAN RIGHT · overlay: `WATERGATE`
+**Shot 112** · 8:22 · 5.9 s · motion: PAN RIGHT · overlay: `WATERGATE`
 ```
 A character in a trench coat leaving a building holding a scandalous envelope, a magnifier glass and a camera aimed at him. Big bold hand-drawn black letters reading "WATERGATE" in a corner of the image. Only these characters appear: one man in a trench coat and a hat, and two male reporters with cameras; no women. Clothes and hairstyles must be accurate for the place and time of the scene, no modern clothes unless the scene is modern, no glasses unless stated, no extra people. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
-**Shot 113** · 8:22 · 5.9 s · motion: ZOOM OUT · overlay: `1980s`
+**Shot 113** · 8:27 · 5.9 s · motion: ZOOM OUT · overlay: `1980s`
 ```
 A character in a cowboy hat cutting a big tax bill in half with scissors, tiny characters cheering. Big bold hand-drawn black letters reading "1980s" in a corner of the image. Only these characters appear: one man in a cowboy hat and a suit cutting the bill, and a cheering crowd of men and women in 1980s clothes. Clothes and hairstyles must be accurate for the place and time of the scene, no modern clothes unless the scene is modern, no glasses unless stated, no extra people. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
-**Shot 114** · 8:28 · 5.9 s · motion: PAN LEFT · overlay: `1991`
+**Shot 114** · 8:33 · 5.9 s · motion: PAN LEFT · overlay: `1991`
 ```
 A red flag falling from a tall tower while a blue flag rises, characters watching quietly. Big bold hand-drawn black letters reading "1991" in a corner of the image. Only these characters appear: men and women in 1990s clothes watching quietly. Clothes and hairstyles must be accurate for the place and time of the scene, no modern clothes unless the scene is modern, no glasses unless stated, no extra people. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
-## 8:34 — "Meanwhile, the post-war boom built suburbs, highways, and a huge middl…"
+## 8:39 — "Meanwhile, the post-war boom built suburbs, highways, and a huge middl…"
 
 *Narration:* Meanwhile, the post-war boom built suburbs, highways, and a huge middle class, and television, rock and roll, and Hollywood spread American culture across the globe.
 
-**Shot 115** · 8:34 · 5.0 s · motion: POP-IN (elements appear one by one) · overlay: `SUBURBS`
+**Shot 115** · 8:39 · 5.0 s · motion: POP-IN (elements appear one by one) · overlay: `SUBURBS`
 ```
 A suburb with identical small houses, a car in each driveway, a highway behind, happy character family on a lawn. Big bold hand-drawn black letters reading "SUBURBS" in a corner of the image. Only these characters appear: a 1950s family: a dad in a short-sleeve shirt, a mom in a polka-dot dress, and two kids. Clothes and hairstyles must be accurate for the place and time of the scene, no modern clothes unless the scene is modern, no glasses unless stated, no extra people. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
-**Shot 116** · 8:39 · 5.0 s · motion: ZOOM IN · overlay: `TV · ROCK · HOLLYWOOD`
+**Shot 116** · 8:44 · 5.0 s · motion: ZOOM IN · overlay: `TV · ROCK · HOLLYWOOD`
 ```
 A character family on a couch watching a TV, a guitar player, and a movie camera with a star. Only these characters appear: a 1950s family on a couch, and a rocker man with a pompadour holding a guitar. Clothes and hairstyles must be accurate for the place and time of the scene, no modern clothes unless the scene is modern, no glasses unless stated, no extra people. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
-## 8:44 — "The internet and Silicon Valley supercharge the economy in the 1990s. …"
+## 8:49 — "The internet and Silicon Valley supercharge the economy in the 1990s. …"
 
 *Narration:* The internet and Silicon Valley supercharge the economy in the 1990s. But on September 11th, 2001, terrorist attacks kill nearly 3,000 people, and the wars in Afghanistan and Iraq follow, lasting for years.
 
-**Shot 117** · 8:44 · 4.4 s · motion: PAN RIGHT · overlay: `THE INTERNET`
+**Shot 117** · 8:49 · 4.4 s · motion: PAN RIGHT · overlay: `THE INTERNET`
 ```
 A character at a glowing laptop, lines connecting to a globe, small tech buildings in the background, blue colors. Big bold hand-drawn black letters reading "THE INTERNET" in a corner of the image. Only these characters appear: one young man with a laptop in 1990s clothes. Clothes and hairstyles must be accurate for the place and time of the scene, no modern clothes unless the scene is modern, no glasses unless stated, no extra people. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
-**Shot 118** · 8:48 · 4.4 s · motion: ZOOM OUT · overlay: `SEPT 11, 2001`
+**Shot 118** · 8:54 · 4.4 s · motion: ZOOM OUT · overlay: `SEPT 11, 2001`
 ```
 Two tall gray towers with a flag at half-staff, characters standing quietly with candles, respectful and somber mood. Big bold hand-drawn black letters reading "SEPT 11, 2001" in a corner of the image. Only these characters appear: men and women in dark clothes holding candles, and one firefighter man in a helmet. Clothes and hairstyles must be accurate for the place and time of the scene, no modern clothes unless the scene is modern, no glasses unless stated, no extra people. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
-**Shot 119** · 8:53 · 4.4 s · motion: PAN LEFT · overlay: `AFGHANISTAN · IRAQ`
+**Shot 119** · 8:58 · 4.4 s · motion: PAN LEFT · overlay: `AFGHANISTAN · IRAQ`
 ```
 Character soldiers walking across a desert with a distant mountain range, muted colors, no blood. Only these characters appear: soldiers, all men, in desert camouflage and helmets; no women, no blood. Clothes and hairstyles must be accurate for the place and time of the scene, no modern clothes unless the scene is modern, no glasses unless stated, no extra people. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
-## 8:57 — "In 2008, a global financial crisis rocks the economy, and Barack Obama…"
+## 9:02 — "In 2008, a global financial crisis rocks the economy, and Barack Obama…"
 
 *Narration:* In 2008, a global financial crisis rocks the economy, and Barack Obama is elected, the first Black president.
 
-**Shot 120** · 8:57 · 3.6 s · motion: POP-IN (elements appear one by one) · overlay: `2008`
+**Shot 120** · 9:02 · 3.6 s · motion: POP-IN (elements appear one by one) · overlay: `2008`
 ```
 A big falling red arrow on a chart, a bank with its door closed, characters with worried faces on the street. Big bold hand-drawn black letters reading "2008" in a corner of the image. Only these characters appear: men and women in modern business clothes with worried faces. Clothes and hairstyles must be accurate for the place and time of the scene, no modern clothes unless the scene is modern, no glasses unless stated, no extra people. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
-**Shot 121** · 9:01 · 3.6 s · motion: ZOOM IN · overlay: `FIRST BLACK PRESIDENT`
+**Shot 121** · 9:06 · 3.6 s · motion: ZOOM IN · overlay: `FIRST BLACK PRESIDENT`
 ```
 A character at a podium in front of a big flag with a crowd cheering below him, hopeful sunrise. Only these characters appear: one man in a dark suit at a podium. Clothes and hairstyles must be accurate for the place and time of the scene, no modern clothes unless the scene is modern, no glasses unless stated, no extra people. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
-## 9:04 — "Then come Donald Trump's first term in 2017, Joe Biden in 2021, and th…"
+## 9:10 — "Then come Donald Trump's first term in 2017, Joe Biden in 2021, and th…"
 
 *Narration:* Then come Donald Trump's first term in 2017, Joe Biden in 2021, and the COVID-19 pandemic, which killed more than a million Americans. In 2024, Trump wins again and returns to the White House in 2025.
 
-**Shot 122** · 9:04 · 4.8 s · motion: PAN RIGHT · overlay: `2017 · 2021`
+**Shot 122** · 9:10 · 4.8 s · motion: PAN RIGHT · overlay: `2017 · 2021`
 ```
 Two characters in suits shaking hands, one with a red tie and one with a blue tie, a tiny white domed building behind them. Big bold hand-drawn black letters reading "2017 · 2021" in a corner of the image. Only these characters appear: two men in suits, one with a red tie and one with a blue tie. Clothes and hairstyles must be accurate for the place and time of the scene, no modern clothes unless the scene is modern, no glasses unless stated, no extra people. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
-**Shot 123** · 9:09 · 4.8 s · motion: ZOOM OUT · overlay: `COVID-19`
+**Shot 123** · 9:14 · 4.8 s · motion: ZOOM OUT · overlay: `COVID-19`
 ```
 A character in a mask alone on an empty street, round virus shapes floating, closed shops. Big bold hand-drawn black letters reading "COVID-19" in a corner of the image. Only these characters appear: one person in a face mask and modern casual clothes, alone. Clothes and hairstyles must be accurate for the place and time of the scene, no modern clothes unless the scene is modern, no glasses unless stated, no extra people. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
-**Shot 124** · 9:14 · 4.8 s · motion: PAN LEFT · overlay: `2025`
+**Shot 124** · 9:19 · 4.8 s · motion: PAN LEFT · overlay: `2025`
 ```
 A big white domed government building at sunrise with a doorway opening and a character in a suit walking in. Big bold hand-drawn black letters reading "2025" in a corner of the image. Only these characters appear: one man in a suit walking in. Clothes and hairstyles must be accurate for the place and time of the scene, no modern clothes unless the scene is modern, no glasses unless stated, no extra people. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
-## 9:19 — "Today, the country faces deep political polarization, fierce debates o…"
+## 9:24 — "Today, the country faces deep political polarization, fierce debates o…"
 
 *Narration:* Today, the country faces deep political polarization, fierce debates over immigration, tariffs, and artificial intelligence, and growing competition with China.
 
-**Shot 125** · 9:19 · 4.0 s · motion: POP-IN (elements appear one by one) · overlay: `POLARIZATION`
+**Shot 125** · 9:24 · 4.0 s · motion: POP-IN (elements appear one by one) · overlay: `POLARIZATION`
 ```
 Two groups of characters facing each other on a split background, red group and blue group, angry faces. Big bold hand-drawn black letters reading "POLARIZATION" in a corner of the image. Only these characters appear: angry men and women in modern clothes split into a red group and a blue group. Clothes and hairstyles must be accurate for the place and time of the scene, no modern clothes unless the scene is modern, no glasses unless stated, no extra people. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
-**Shot 126** · 9:23 · 4.0 s · motion: ZOOM IN · overlay: `IMMIGRATION · TARIFFS · AI · CHINA`
+**Shot 126** · 9:28 · 4.0 s · motion: ZOOM IN · overlay: `IMMIGRATION · TARIFFS · AI · CHINA`
 ```
 A table with small icons: a border fence, a cargo ship with a tag, a robot head, and a globe with a dragon sticker. Only these characters appear: no people, only icons. Clothes and hairstyles must be accurate for the place and time of the scene, no modern clothes unless the scene is modern, no glasses unless stated, no extra people. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
-## 9:27 — "Smartphones, social media, and now artificial intelligence are reshapi…"
+## 9:32 — "Smartphones, social media, and now artificial intelligence are reshapi…"
 
 *Narration:* Smartphones, social media, and now artificial intelligence are reshaping how Americans work, vote, and argue, and the world is watching how the country handles it.
 
-**Shot 127** · 9:27 · 5.0 s · motion: PAN RIGHT · overlay: `SOCIAL MEDIA`
+**Shot 127** · 9:32 · 5.0 s · motion: PAN RIGHT · overlay: `SOCIAL MEDIA`
 ```
 A crowd of characters staring at glowing smartphones, thumbs up and thumbs down icons floating around them. Big bold hand-drawn black letters reading "SOCIAL MEDIA" in a corner of the image. Only these characters appear: a crowd of men, women and teenagers in modern clothes looking at smartphones. Clothes and hairstyles must be accurate for the place and time of the scene, no modern clothes unless the scene is modern, no glasses unless stated, no extra people. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
-**Shot 128** · 9:32 · 5.0 s · motion: ZOOM OUT
+**Shot 128** · 9:37 · 5.0 s · motion: ZOOM OUT
 ```
 A friendly robot head next to a character at a desk, both looking at a giant globe with a big eye watching. Only these characters appear: one man at a desk with a robot head. Clothes and hairstyles must be accurate for the place and time of the scene, no modern clothes unless the scene is modern, no glasses unless stated, no extra people. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
-## 9:37 — "From colonies to superpower, with light and shadow: ideals of liberty …"
+## 9:42 — "From colonies to superpower, with light and shadow: ideals of liberty …"
 
 *Narration:* From colonies to superpower, with light and shadow: ideals of liberty alongside slavery and exclusion; innovation alongside conflict.
 
-**Shot 129** · 9:37 · 3.6 s · motion: PAN LEFT · overlay: `LIGHT AND SHADOW`
+**Shot 129** · 9:42 · 3.6 s · motion: PAN LEFT · overlay: `LIGHT AND SHADOW`
 ```
 A split picture: on the left a bright sunny scene with a flag and fireworks, on the right a dark gray scene with a chain, a character in the middle looking at both. Big bold hand-drawn black letters reading "LIGHT AND SHADOW" in a corner of the image. Only these characters appear: one man in a plain modern jacket standing in the middle. Clothes and hairstyles must be accurate for the place and time of the scene, no modern clothes unless the scene is modern, no glasses unless stated, no extra people. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
-**Shot 130** · 9:40 · 3.6 s · motion: POP-IN (elements appear one by one)
+**Shot 130** · 9:46 · 3.6 s · motion: POP-IN (elements appear one by one)
 ```
 A superhero-sized character standing on a pile of coins and chains, looking thoughtful. Only these characters appear: one giant man standing on coins and chains. Clothes and hairstyles must be accurate for the place and time of the scene, no modern clothes unless the scene is modern, no glasses unless stated, no extra people. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
 
-## 9:44 — "The story of the United States is still being written, and 2026 is jus…"
+## 9:49 — "The story of the United States is still being written, and 2026 is jus…"
 
 *Narration:* The story of the United States is still being written, and 2026 is just the next chapter.
 
-**Shot 131** · 9:44 · 3.4 s · motion: ZOOM IN · overlay: `2026`
+**Shot 131** · 9:49 · 3.4 s · motion: ZOOM IN · overlay: `2026`
 ```
 A giant open book with a character writing the next page with a pen, many pages already filled behind him. Big bold hand-drawn black letters reading "2026" in a corner of the image. Only these characters appear: one man writing in a giant book. Clothes and hairstyles must be accurate for the place and time of the scene, no modern clothes unless the scene is modern, no glasses unless stated, no extra people. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
-**Shot 132** · 9:47 · 3.4 s · motion: PAN RIGHT · overlay: `THE NEXT CHAPTER`
+**Shot 132** · 9:53 · 3.4 s · motion: PAN RIGHT · overlay: `THE NEXT CHAPTER`
 ```
 A road with small icons from the whole story, a character walking toward a glowing sunrise on the horizon. Big bold hand-drawn black letters reading "THE NEXT CHAPTER" in a corner of the image. Only these characters appear: one traveler man walking. Clothes and hairstyles must be accurate for the place and time of the scene, no modern clothes unless the scene is modern, no glasses unless stated, no extra people. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
-## 9:51 — "If you enjoyed this, subscribe, and tell me in the comments: which cou…"
+## 9:56 — "If you enjoyed this, subscribe, and tell me in the comments: which cou…"
 
 *Narration:* If you enjoyed this, subscribe, and tell me in the comments: which country should we cover next?
 
-**Shot 133** · 9:51 · 3.4 s · motion: ZOOM OUT · overlay: `SUBSCRIBE`
+**Shot 133** · 9:56 · 3.4 s · motion: ZOOM OUT · overlay: `SUBSCRIBE`
 ```
 A character pointing at a big red subscribe button and a bell icon, small hearts floating. Big bold hand-drawn black letters reading "SUBSCRIBE" in a corner of the image. Only these characters appear: one young man pointing at the button. Clothes and hairstyles must be accurate for the place and time of the scene, no modern clothes unless the scene is modern, no glasses unless stated, no extra people. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no other text.
 ```
 
-**Shot 134** · 9:54 · 3.4 s · motion: PAN LEFT · overlay: `WHICH COUNTRY NEXT?`
+**Shot 134** · 9:59 · 3.4 s · motion: PAN LEFT · overlay: `WHICH COUNTRY NEXT?`
 ```
 A speech bubble with a question mark and a character holding a globe with several countries highlighted. Only these characters appear: one woman holding a globe and one man with a speech bubble. Clothes and hairstyles must be accurate for the place and time of the scene, no modern clothes unless the scene is modern, no glasses unless stated, no extra people. 2D cartoon web-comic explainer style: characters with round white heads, simple dot eyes, tiny mouths and deadpan expressive faces, thick black outlines, simple hair, period costumes with flat shading, fully painted detailed background with soft painterly textures, moody slightly desaturated color palette, 16:9, no text, no letters.
 ```
